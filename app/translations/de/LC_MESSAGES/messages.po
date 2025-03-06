@@ -19574,15 +19574,16 @@ msgstr "Tornados, Flutwellen, Hurrikan, Vulkanausbruch"
 msgid ""
 "Encounter: Roll on an encounter table for that terrain type or location. "
 "Don’t forget to roll for NPC reactions if applicable."
-msgstr "Begegnung: Würfeln Sie auf einer Begegnungstabelle für diesen Geländetyp oder Ort.
-Vergessen Sie nicht, ggf. für NPC-Reaktionen zu würfeln."
-Vergessen Sie nicht, ggf. für NPC-Reaktionen zu würfeln."
+msgstr ""
+"Begegnung: Würfeln Sie auf einer Begegnungstabelle für diesen Geländetyp oder Ort."
+"Vergessen Sie nicht, ggf. für NPC-Reaktionen zu würfeln."
 
 #: app/static/json/party_events/wilderness-events.json:7
 msgid ""
 "Sign: The party discovers a clue, spoor, or indication of a nearby "
 "encounter, locality, hidden feature, or information about a nearby area."
-msgstr "Zeichen: Die Gruppe entdeckt einen Hinweis, eine Spur oder einen Hinweis auf eine nahe gelegene Begegnung, einen Ort, ein verstecktes Merkmal oder Informationen über ein nahe gelegenes Gebiet."
+msgstr ""
+"Zeichen: Die Gruppe entdeckt einen Hinweis, eine Spur oder einen Hinweis auf eine nahe gelegene Begegnung, einen Ort, ein verstecktes Merkmal oder Informationen über ein nahe gelegenes Gebiet."
 
 #: app/static/json/party_events/wilderness-events.json:10
 msgid "Environment: A shift in weather or terrain."
