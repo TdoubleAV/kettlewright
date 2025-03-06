@@ -17752,7 +17752,8 @@ msgstr "Torkreide"
 msgid ""
 "Draw a doorway on any flat surface to open a one-way passage to the "
 "Roots. Good luck."
-msgstr "Zeichnen Sie auf eine beliebige flache Oberfläche eine Tür, um einen Einwegdurchgang zu den Wurzeln zu öffnen. Viel Glück."
+msgstr ""
+"Zeichnen Sie auf eine beliebige flache Oberfläche eine Tür, um einen Einwegdurchgang zu den Wurzeln zu öffnen. Viel Glück."
 
 #: app/static/json/party_events/reliquary.json:84
 msgid "Golden Wheat Paste"
