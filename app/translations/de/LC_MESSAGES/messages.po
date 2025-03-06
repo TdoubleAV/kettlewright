@@ -1238,11 +1238,10 @@ msgid ""
 "You inherited a Single Gem (500gp, cold and brittle) from a long-dead "
 "relative. It arrived with a warning: squander your newfound riches, and a"
 " debt long thought forgotten would be called."
-msgstr "Sie haben einen einzelnen Edelstein (500 Goldstücke, kalt und spröde) von einem längst verstorbenen
-Verwandten geerbt. Er kam mit einer Warnung: Verprassen Sie Ihren neu gewonnenen Reichtum, und eine
-lange vergessen geglaubte Schuld wird eingelöst."
-Verwandten geerbt. Er kam mit einer Warnung: Verprassen Sie Ihren neu gewonnenen Reichtum, und eine
-lange vergessen geglaubte Schuld wird eingelöst."
+msgstr ""
+"Sie haben einen einzelnen Edelstein (500 Goldstücke, kalt und spröde) von einem längst verstorbenen "
+"Verwandten geerbt. Er kam mit einer Warnung: Verprassen Sie Ihren neu gewonnenen Reichtum, und eine "
+"lange vergessen geglaubte Schuld wird eingelöst."
 
 #: app/static/json/bonds.json:7
 msgid "Single Gem"
@@ -1464,13 +1463,11 @@ msgid ""
 "One of your ancestors wronged a Moss Witch, who cursed their bloodline. "
 "Your visage causes mirrors to shatter. You’ve noticed that the shards can"
 " sometimes reveal illusions."
-msgstr "Einer Ihrer Vorfahren hat einer Mooshexe Unrecht zugefügt, die ihre Blutlinie verflucht hat.
+msgstr ""
+"Einer Ihrer Vorfahren hat einer Mooshexe Unrecht zugefügt, die ihre Blutlinie verflucht hat. "
+"Ihr Antlitz lässt Spiegel zerspringen. Sie haben bemerkt, dass die Scherben "
+"manchmal Illusionen offenbaren können."
 
-Ihr Antlitz lässt Spiegel zerspringen. Sie haben bemerkt, dass die Scherben
-manchmal Illusionen offenbaren können."
-
-Ihr Antlitz lässt Spiegel zerspringen. Sie haben bemerkt, dass die Scherben
-manchmal Illusionen offenbaren können."
 
 # ============================================= OMENS
 # =============================================
@@ -1480,13 +1477,12 @@ msgid ""
 " tainting the land and sickening those who drink from it. A village elder"
 " points to some recent desecration as the cause, but most do not heed "
 "their words."
-msgstr "Das einst so reichhaltige Wasser eines lebensspendenden Flusses ist schwarz und faulig geworden. Es
-verseucht das Land und macht diejenigen krank, die davon trinken. Ein Dorfältester
-führt eine kürzlich erfolgte Entweihung als Ursache an, doch die meisten nehmen
-seine Worte nicht ernst."
-verseucht das Land und macht diejenigen krank, die davon trinken. Ein Dorfältester
-führt eine kürzlich erfolgte Entweihung als Ursache an, doch die meisten nehmen
-seine Worte nicht ernst."
+msgstr ""
+"Das einst so reichhaltige Wasser eines lebensspendenden Flusses ist schwarz und faulig geworden. Es "
+"verseucht das Land und macht diejenigen krank, die davon trinken. Ein Dorfältester "
+"führt eine kürzlich erfolgte Entweihung als Ursache an, doch die meisten nehmen "
+"seine Worte nicht ernst."
+
 
 #: app/static/json/omens.json:7
 msgid ""
@@ -1494,13 +1490,11 @@ msgid ""
 "making their appearance much earlier than expected. There is talk of a "
 "pattern to the frost found in windows, ponds, and cracks in the ground. "
 "It almost looks like a map."
-msgstr "Es fühlt sich an, als sei der Winter dieses Jahr zu schnell gekommen, Frost und Schnee 
-sind viel früher da als erwartet. Es wird von einem 
-Muster des Frosts gesprochen, der sich an Fenstern, Teichen und Rissen im Boden abzeichnet. 
-Es sieht fast aus wie eine Landkarte."
-sind viel früher da als erwartet. Es wird von einem 
-Muster des Frosts gesprochen, der sich an Fenstern, Teichen und Rissen im Boden abzeichnet. 
-Es sieht fast aus wie eine Landkarte."
+msgstr ""
+"Es fühlt sich an, als sei der Winter dieses Jahr zu schnell gekommen, Frost und Schnee "
+"sind viel früher da als erwartet. Es wird von einem "
+"Frostmuster gesprochen, das sich an Fenstern, Teichen und Rissen im Boden abzeichnet. "
+"Es sieht fast aus wie eine Landkarte."
 
 #: app/static/json/omens.json:10
 msgid ""
