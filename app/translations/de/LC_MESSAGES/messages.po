@@ -1,4 +1,8 @@
-
+# German translations for kettlewright
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the kettlewright project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
