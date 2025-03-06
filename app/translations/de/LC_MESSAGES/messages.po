@@ -1284,11 +1284,10 @@ msgid ""
 "You once freed a Naiad from a choked stream. In return, it gave you some "
 "Silver Moss (petty). Swallow it near water and the creature will come, "
 "once, to repay its debt."
-msgstr "Du hast einmal eine Najade aus einem verstopften Bach befreit. Als Gegenleistung gab sie dir etwas 
-Silbermoos (kleinlich). Schlucke es in der Nähe von Wasser und die Kreatur wird kommen, 
-einmal, um ihre Schuld zurückzuzahlen."
-Silbermoos (kleinlich). Schlucke es in der Nähe von Wasser und die Kreatur wird kommen, 
-einmal, um ihre Schuld zurückzuzahlen."
+msgstr ""
+"Du hast einmal eine Najade aus einem verstopften Bach befreit. Als Gegenleistung gab sie dir etwas "
+"Silbermoos (klein). Schlucke es in der Nähe von Wasser und die Kreatur wird einmal kommen, "
+"um ihre Schuld zurückzuzahlen."
 
 #: app/static/json/bonds.json:54
 msgid "Silver Moss"
@@ -1310,11 +1309,10 @@ msgid ""
 "You protect a long-dormant family secret. Take one half of an Ancient Key"
 " (petty). They say that if joined with its twin, it opens a Gate through "
 "any door."
-msgstr "Sie schützen ein lange gehütetes Familiengeheimnis. Nehmen Sie die Hälfte eines uralten Schlüssels
-(kleiner Schlüssel). Man sagt, wenn man ihn mit seinem Zwilling verbindet, öffnet er ein Tor durch
-jede Tür."
-(kleiner Schlüssel). Man sagt, wenn man ihn mit seinem Zwilling verbindet, öffnet er ein Tor durch
-jede Tür."
+msgstr ""
+"Sie schützen ein lange gehütetes Familiengeheimnis. Nehmen Sie die Hälfte eines uralten Schlüssels"
+"(klein). Man sagt, wenn man ihn mit seinem Zwilling verbindet, öffnet er ein Tor durch"
+"jede Tür."
 
 #: app/static/json/bonds.json:77
 msgid "Ancient Key Half"
@@ -1332,11 +1330,10 @@ msgid ""
 "You received a Letter (petty) detailing incontrovertible proof that your "
 "true parentage is that of Fae nobility. The note also indicates a date "
 "and location where you are to meet them, deep in the the Wood."
-msgstr "Sie haben einen (kleinen) Brief erhalten, der unwiderlegbare Beweise dafür enthält, dass Ihre 
-wahre Abstammung aus der Feen-Edelfamilie stammt. In der Notiz ist auch ein Datum 
-und ein Ort angegeben, wo Sie sie treffen sollen, tief im Wald."
-wahre Abstammung aus der Feen-Edelfamilie stammt. In der Notiz ist auch ein Datum 
-und ein Ort angegeben, wo Sie sie treffen sollen, tief im Wald."
+msgstr ""
+"Sie haben einen (kleinen) Brief erhalten, der unwiderlegbare Beweise dafür enthält, dass Ihre "
+"wahre Abstammung aus der Feen-Adelfamilie stammt. In der Notiz ist auch ein Datum "
+"und ein Ort angegeben, wo Sie sie treffen sollen, tief im Wald."
 
 #: app/static/json/bonds.json:90 app/static/json/bonds.json:139
 msgid "Letter"
@@ -1380,9 +1377,10 @@ msgid ""
 "During your travels, you met a dying hunter who asked you to deliver a "
 "message to their loved ones. Take a Letter (petty), sealed with tree sap."
 " It is addressed only to the Lord Of Winter."
-msgstr "Auf Ihren Reisen haben Sie einen sterbenden Jäger getroffen, der Sie gebeten hat, seinen Lieben eine Nachricht zu überbringen. Nehmen Sie einen Brief (kleiner Brief), versiegelt mit Baumharz.
-Er ist nur an den Herrn des Winters gerichtet."
-Er ist nur an den Herrn des Winters gerichtet."
+msgstr ""
+"Auf Ihren Reisen haben Sie einen sterbenden Jäger getroffen, der Sie gebeten hat, seinen Lieben eine Nachricht zu überbringen. Nehmen Sie einen Brief (kleiner), versiegelt mit Baumharz."
+"Er ist nur an den Herrn des Winters gerichtet."
+
 
 #: app/static/json/bonds.json:148
 msgid ""
@@ -1407,11 +1405,10 @@ msgid ""
 "You crossed a creature of the Wood, and it cursed you with a Stone Heart "
 "(1 Armor). With each passing month, the stone grows heavier by one slot. "
 "Until your debt is lifted, you cannot truly die."
-msgstr "Du hast dich mit einem Geschöpf des Waldes angelegt und es hat dich mit einem Steinherz verflucht
-(1 Rüstung). Mit jedem Monat wird der Stein um einen Platz schwerer.
-Bis deine Schuld getilgt ist, kannst du nicht wirklich sterben."
-(1 Rüstung). Mit jedem Monat wird der Stein um einen Platz schwerer.
-Bis deine Schuld getilgt ist, kannst du nicht wirklich sterben."
+msgstr ""
+"Du hast dich mit einem Geschöpf des Waldes angelegt und es hat dich mit einem Steinherz verflucht "
+"(1 Rüstung). Mit jedem Monat wird der Stein um einen Platz schwerer. "
+"Bis deine Schuld getilgt ist, kannst du nicht wirklich sterben."
 
 #: app/static/json/bonds.json:170
 msgid "Stone Heart"
@@ -1443,9 +1440,9 @@ msgid ""
 "An entertainer once visited your home, filling it with story and song. He"
 " left one day without a word, leaving behind only A Miniature Lute. "
 "Something rattles inside."
-msgstr "Einst besuchte ein Entertainer Ihr Haus und erfüllte es mit Geschichten und Liedern. Eines Tages verließ er es ohne ein Wort und ließ nur eine Miniaturlaute zurück. 
-Da drinnen klappert etwas."
-Da drinnen klappert etwas."
+msgstr ""
+"Einst besuchte ein Entertainer Ihr Haus und erfüllte es mit Geschichten und Liedern. Eines Tages verließ er es ohne ein Wort und ließ nur eine Miniaturlaute zurück. "
+"Da drinnen klappert etwas."
 
 #: app/static/json/bonds.json:209
 msgid "Miniature Lute"
