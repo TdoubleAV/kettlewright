@@ -124,7 +124,7 @@ msgstr "Neues Passwort"
 
 #: app/forms.py:89
 msgid "new password"
-msgstr ""
+msgstr "neues Passwort"
 
 #: app/forms.py:90
 msgid "Confirm new password"
@@ -144,7 +144,7 @@ msgstr "Hintergrund (d20)..."
 
 #: app/forms.py:114 app/forms.py:115
 msgid "Custom"
-msgstr ""
+msgstr "Benutzerdefiniert"
 
 #: app/forms.py:125 app/forms.py:238 app/templates/partial/tools/pcgen.html:13
 msgid "Background"
@@ -208,18 +208,18 @@ msgstr "Willenskraft Max"
 #: app/templates/partial/charview/stats.html:22
 #: app/templates/partial/tools/pcgen_text.html:28
 msgid "HP"
-msgstr ""
+msgstr "TP"
 
 #: app/forms.py:153 app/forms.py:258
 msgid "HP Max"
-msgstr ""
+msgstr "TP Max"
 
 #: app/forms.py:155 app/forms.py:185 app/forms.py:207 app/forms.py:268
 #: app/forms.py:287 app/forms.py:297 app/templates/main/character_edit.html:82
 #: app/templates/main/character_print.html:113
 #: app/templates/main/character_view.html:101
 msgid "Notes"
-msgstr ""
+msgstr "Notizen"
 
 #: app/forms.py:156 app/forms.py:188 app/forms.py:212 app/forms.py:286
 #: app/forms.py:296
@@ -254,11 +254,11 @@ msgstr "Speichern"
 
 #: app/forms.py:184 app/forms.py:266
 msgid "Deprived"
-msgstr ""
+msgstr "Kraftlos"
 
 #: app/forms.py:186 app/forms.py:208 app/forms.py:288 app/forms.py:298
 msgid "notes"
-msgstr ""
+msgstr "Notizen"
 
 #: app/forms.py:187 app/forms.py:211 app/forms.py:269 app/forms.py:285
 #: app/forms.py:295 app/templates/main/character_edit.html:66
@@ -277,11 +277,11 @@ msgstr "Beschreibung"
 #: app/templates/main/character_print.html:58
 #: app/templates/main/character_view.html:60
 msgid "Traits"
-msgstr ""
+msgstr "Merkmale"
 
 #: app/forms.py:190 app/forms.py:216
 msgid "traits"
-msgstr ""
+msgstr "Merkmale"
 
 #: app/forms.py:191 app/forms.py:219 app/forms.py:271
 #: app/templates/main/character_create.html:291
@@ -291,11 +291,11 @@ msgstr ""
 #: app/templates/main/character_view.html:80
 #: app/templates/partial/tools/pcgen_text.html:63
 msgid "Bonds"
-msgstr ""
+msgstr "Bindungen"
 
 #: app/forms.py:192 app/forms.py:220
 msgid "bonds"
-msgstr ""
+msgstr "Bindungen"
 
 #: app/forms.py:193 app/forms.py:223 app/forms.py:272
 #: app/templates/main/character_create.html:302
@@ -309,7 +309,7 @@ msgstr "Omen"
 
 #: app/forms.py:194 app/forms.py:224
 msgid "omens"
-msgstr ""
+msgstr "Omen"
 
 #: app/forms.py:195 app/forms.py:230 app/forms.py:273
 #: app/templates/main/character_print.html:105
@@ -324,16 +324,16 @@ msgstr "Narben"
 
 #: app/forms.py:200 app/forms.py:227
 msgid "Party Code"
-msgstr ""
+msgstr "Gruppen Code"
 
 #: app/forms.py:201 app/forms.py:227
 msgid "join code"
-msgstr ""
+msgstr "Beitritts Code"
 
 #: app/forms.py:262 app/templates/main/character_create.html:319
 #: app/templates/partial/tools/pcgen_text.html:38
 msgid "Items"
-msgstr ""
+msgstr "Gegenstände"
 
 #: app/forms.py:263
 msgid "Containers"
@@ -365,7 +365,7 @@ msgstr "Name"
 
 #: app/forms.py:289
 msgid "Save Party"
-msgstr ""
+msgstr "Gruppe speichern"
 
 #: app/static/json/backgrounds/aurifex.json:39 app/static/json/bonds.json:30
 #: app/static/json/bonds.json:221 app/static/json/marketplace.json:42
@@ -392,7 +392,7 @@ msgstr "1 Rüstung"
 #: app/static/json/party_events/reliquary.json:10
 #: app/static/json/party_events/spellbooks.json:5
 msgid "tags"
-msgstr ""
+msgstr "Schlagwörter"
 
 #: app/static/json/marketplace.json:5 app/static/json/marketplace.json:10
 msgid "cost"
@@ -475,7 +475,7 @@ msgstr "d10"
 
 #: - all app/static/json/backgrounds/aurifex.json:19 backgrounds
 msgid "Rations"
-msgstr ""
+msgstr "Rationen"
 
 #: - all app/static/json/backgrounds/barber-surgeon.json:25 backgrounds
 msgid "Torch"
@@ -484,7 +484,7 @@ msgstr "Fackel"
 #: app/static/json/backgrounds/barber-surgeon.json:55
 #: app/static/json/bonds.json:150 app/static/json/bonds.json:230
 msgid "items"
-msgstr ""
+msgstr "Gegenstand"
 
 # NOTE: Please leave it empty as a translation
 #: app/static/json/backgrounds/aurifex.json:22
@@ -516,7 +516,7 @@ msgstr "Explosion"
 # Inventory slots
 #: app/static/json/backgrounds/bonekeeper.json:79
 msgid "slots"
-msgstr ""
+msgstr "Inventarplätze"
 
 #: app/static/json/backgrounds/bonekeeper.json:81
 msgid "load"
@@ -571,7 +571,7 @@ msgstr "Neugierig"
 #: app/static/json/party_events/bestiary.json:1090
 #: app/static/json/party_events/reactions.json:41
 msgid "Kind"
-msgstr ""
+msgstr "Freundlich"
 
 #: app/static/json/party_events/bestiary.json:1093
 #: app/static/json/party_events/reactions.json:45
@@ -580,7 +580,7 @@ msgstr "Hilfreich"
 
 #: app/static/json/party_events/reliquary.json:33
 msgid "charge"
-msgstr ""
+msgstr "Ladung"
 
 #: app/static/json/party_events/reliquary.json:21
 #: app/static/json/party_events/reliquary.json:171
@@ -598,7 +598,7 @@ msgstr "Charaktere"
 
 #: app/templates/nav.html:45
 msgid "parties"
-msgstr ""
+msgstr "Gruppen"
 
 #: app/templates/nav.html:48
 msgid "tools"
@@ -624,7 +624,7 @@ msgstr "Stornieren"
 
 #: app/templates/nav.html:59 app/templates/nav.html:64
 msgid "about"
-msgstr ""
+msgstr "Über"
 
 #: app/templates/nav.html:60
 msgid "account"
@@ -709,11 +709,11 @@ msgstr "Wenn Sie keine Zurücksetzung des Passworts angefordert haben, ignoriere
 
 #: app/templates/main/about.html:9
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: app/templates/main/about.html:24
 msgid "Attribution"
-msgstr ""
+msgstr "Zuschreibung"
 
 #: app/templates/main/character_create.html:18
 msgid "Roll All"
@@ -744,7 +744,7 @@ msgstr "(d6)"
 
 #: app/templates/main/character_create.html:114
 msgid "Gear Table 1"
-msgstr ""
+msgstr "Ausrüstungstabelle 1"
 
 #: app/templates/main/character_create.html:137
 msgid "Gear Table 2"
@@ -796,7 +796,7 @@ msgstr "Tugend"
 
 #: app/templates/main/character_create.html:262
 msgid "Vice"
-msgstr ""
+msgstr "Laster"
 
 #: app/templates/main/character_create.html:274
 #: app/templates/main/character_create.html:279
@@ -843,7 +843,7 @@ msgstr "Inventar"
 #: app/templates/main/character_print.html:126
 #: app/templates/main/character_view.html:123
 msgid "This character does not belong to a party..."
-msgstr ""
+msgstr "Dieser Charakter gehört keiner Gruppe an..."
 
 #: app/templates/main/character_view.html:63
 msgid "This character has no traits..."
@@ -859,7 +859,7 @@ msgstr "Dieser Charakter hat keine Bindungen ..."
 
 #: app/templates/main/character_view.html:90
 msgid "This character has no omens..."
-msgstr ""
+msgstr "Dieser Charakter hat keine Omen …"
 
 #: app/templates/main/character_view.html:97
 msgid "This character has no scars..."
@@ -872,7 +872,7 @@ msgstr "Dieses Zeichen hat keine Notizen ..."
 #: app/templates/main/character_view.html:109
 #: app/templates/main/inventory.html:185
 msgid "Party"
-msgstr ""
+msgstr "Gruppe"
 
 #: app/templates/main/character_view.html:132
 msgid "Print"
@@ -884,7 +884,7 @@ msgstr "Export"
 
 #: app/templates/main/character_view.html:144
 msgid "Delete character"
-msgstr ""
+msgstr "Charakter löschen"
 
 #: app/templates/main/character_view.html:144
 #: app/templates/main/inventory.html:95 app/templates/main/inventory.html:187
@@ -943,7 +943,7 @@ msgstr "Portrait bearbeiten"
 #: app/templates/partial/modal/marketplace.html:112
 #: app/templates/partial/partyedit/inventory.html:86
 msgid "Item"
-msgstr ""
+msgstr "Gegenstand"
 
 #: app/templates/main/inventory.html:14
 #: app/templates/partial/charedit/inventory.html:91
@@ -956,7 +956,7 @@ msgstr "Ermüdung"
 #: app/templates/partial/modal/edit_item_party.html:86
 #: app/templates/partial/partyedit/inventory.html:96
 msgid "Container"
-msgstr ""
+msgstr "Behälter"
 
 #: app/templates/main/inventory.html:16 app/templates/main/marketplace.html:5
 #: app/templates/partial/modal/marketplace.html:94
@@ -965,13 +965,13 @@ msgstr "Marktplatz"
 
 #: app/templates/main/inventory.html:25
 msgid "Add/Edit Container"
-msgstr ""
+msgstr "Behälter hinzufügen/bearbeiten"
 
 #: app/templates/main/inventory.html:39
 #: app/templates/partial/modal/edit_container.html:27
 #: app/templates/partial/modal/edit_container_party.html:27
 msgid "Slots"
-msgstr ""
+msgstr "Inventarplätze"
 
 #: app/templates/main/inventory.html:47
 #: app/templates/partial/modal/edit_container.html:35
@@ -991,21 +991,21 @@ msgstr "Laden"
 
 #: app/templates/main/inventory.html:67
 msgid "Remove Container"
-msgstr ""
+msgstr "Behälter entfernen"
 
 #: app/templates/main/inventory.html:76
 msgid "Move Items"
-msgstr ""
+msgstr "Gegenstände verschieben"
 
 #: app/templates/main/inventory.html:106
 msgid "Add Item"
-msgstr ""
+msgstr "Gegenstand hinzufügen"
 
 #: app/templates/main/inventory.html:117
 #: app/templates/partial/modal/edit_item.html:25
 #: app/templates/partial/modal/edit_item_party.html:25
 msgid "Tags"
-msgstr ""
+msgstr "Schlagwörter"
 
 #: app/templates/main/inventory.html:142
 #: app/templates/partial/modal/edit_item.html:67
@@ -1017,11 +1017,11 @@ msgstr "Anwendung"
 #: app/templates/partial/modal/edit_item.html:75
 #: app/templates/partial/modal/edit_item_party.html:75
 msgid "Charges / Max"
-msgstr ""
+msgstr "Ladungen / Max"
 
 #: app/templates/main/inventory.html:199
 msgid "Transfer Item"
-msgstr ""
+msgstr "Gegenstand übertragen"
 
 #: app/templates/main/inventory.html:204
 msgid "transfer to..."
@@ -1029,12 +1029,12 @@ msgstr "übertragen auf..."
 
 #: app/templates/main/inventory.html:223
 msgid "This item has no description"
-msgstr ""
+msgstr "Dieser Gegenstand hat keine Beschreibung"
 
 #: app/templates/main/marketplace.html:8
 #: app/templates/partial/modal/marketplace.html:98
 msgid "Gear"
-msgstr ""
+msgstr "Ausrüstung"
 
 #: app/templates/main/marketplace.html:20
 #: app/templates/partial/modal/marketplace.html:114
@@ -1056,7 +1056,7 @@ msgstr "Noch keine Mitglieder."
 
 #: app/templates/main/parties.html:38
 msgid "New Party"
-msgstr ""
+msgstr "Neue Gruppe"
 
 #: app/templates/main/party_edit.html:95
 msgid "Remove"
@@ -1065,11 +1065,11 @@ msgstr "Entfernen"
 #: app/templates/main/party_edit.html:105
 #: app/templates/main/party_view.html:106
 msgid "No members in this party"
-msgstr ""
+msgstr "Keine Mitglieder in dieser Gruppe"
 
 #: app/templates/main/party_edit.html:125
 msgid "Delete Party"
-msgstr ""
+msgstr "Gruppe löschen"
 
 #: app/templates/main/profile.html:4 app/templates/main/user.html:4
 msgid "Welcome"
@@ -1077,7 +1077,7 @@ msgstr "Willkommen"
 
 #: app/templates/main/profile.html:10
 msgid "Party Tools"
-msgstr ""
+msgstr "Gruppen-Werkzeuge"
 
 #: app/templates/main/tools.html:14
 msgid "Tables"
@@ -1093,10 +1093,11 @@ msgid ""
 "            Generator"
 msgstr "Charakter\n
 Generator"
+Generator"
 
 #: app/templates/partial/charedit/party.html:9
 msgid "Leave party"
-msgstr ""
+msgstr "Gruppe verlassen"
 
 #: app/templates/partial/charedit/party.html:25
 msgid "Join Code"
@@ -1104,7 +1105,7 @@ msgstr "Beitrittscode"
 
 #: app/templates/partial/charview/stats.html:48
 msgid "Do you want to restore all HP?"
-msgstr ""
+msgstr "Möchten Sie alle TP wiederherstellen?"
 
 #: app/templates/partial/charview/stats.html:50
 msgid "Rest"
@@ -1113,41 +1114,41 @@ msgstr "Ausruhen"
 #: app/templates/partial/modal/edit_container.html:10
 #: app/templates/partial/modal/edit_container_party.html:10
 msgid "Edit Container"
-msgstr ""
+msgstr "Behälter bearbeiten"
 
 #: app/templates/partial/modal/edit_container.html:12
 #: app/templates/partial/modal/edit_container_party.html:12
 msgid "Create Container"
-msgstr ""
+msgstr "Behälter erstellen"
 
 #: app/templates/partial/modal/edit_container.html:75
 #: app/templates/partial/modal/edit_container_party.html:75
 msgid "Delete container"
-msgstr ""
+msgstr "Behälter löschen"
 
 #: app/templates/partial/modal/edit_container.html:78
 #: app/templates/partial/modal/edit_container_party.html:78
 msgid "Delete all items"
-msgstr ""
+msgstr "Alle Gegenstände löschen"
 
 #: app/templates/partial/modal/edit_container.html:80
 #: app/templates/partial/modal/edit_container_party.html:80
 msgid "Move items to"
-msgstr ""
+msgstr "Gegenstände verschieben nach"
 
 #: app/templates/partial/modal/edit_item.html:10
 #: app/templates/partial/modal/edit_item_party.html:10
 msgid "Edit Item"
-msgstr ""
+msgstr "Gegenstand bearbeiten"
 
 #: app/templates/partial/modal/edit_item.html:12
 #: app/templates/partial/modal/edit_item_party.html:12
 msgid "Create Item"
-msgstr ""
+msgstr "Gegenstand erstellen"
 
 #: app/templates/partial/modal/edit_item.html:124
 msgid "Party Storage"
-msgstr ""
+msgstr "Gruppen-Aufbewahrung"
 
 #: app/templates/partial/modal/marketplace.html:95
 msgid "Storing in"
@@ -1159,7 +1160,7 @@ msgstr "Kaufen"
 
 #: app/templates/partial/modal/transfer_item.html:6
 msgid "Transfer item"
-msgstr ""
+msgstr "Gegenstand übertragen"
 
 #: app/templates/partial/modal/transfer_item.html:10
 msgid "Transferring"
@@ -1241,6 +1242,8 @@ msgid ""
 msgstr "Sie haben einen einzelnen Edelstein (500 Goldstücke, kalt und spröde) von einem längst verstorbenen
 Verwandten geerbt. Er kam mit einer Warnung: Verprassen Sie Ihren neu gewonnenen Reichtum, und eine
 lange vergessen geglaubte Schuld wird eingelöst."
+Verwandten geerbt. Er kam mit einer Warnung: Verprassen Sie Ihren neu gewonnenen Reichtum, und eine
+lange vergessen geglaubte Schuld wird eingelöst."
 
 #: app/static/json/bonds.json:7
 msgid "Single Gem"
@@ -1285,6 +1288,8 @@ msgid ""
 msgstr "Du hast einmal eine Najade aus einem verstopften Bach befreit. Als Gegenleistung gab sie dir etwas 
 Silbermoos (kleinlich). Schlucke es in der Nähe von Wasser und die Kreatur wird kommen, 
 einmal, um ihre Schuld zurückzuzahlen."
+Silbermoos (kleinlich). Schlucke es in der Nähe von Wasser und die Kreatur wird kommen, 
+einmal, um ihre Schuld zurückzuzahlen."
 
 #: app/static/json/bonds.json:54
 msgid "Silver Moss"
@@ -1309,6 +1314,8 @@ msgid ""
 msgstr "Sie schützen ein lange gehütetes Familiengeheimnis. Nehmen Sie die Hälfte eines uralten Schlüssels
 (kleiner Schlüssel). Man sagt, wenn man ihn mit seinem Zwilling verbindet, öffnet er ein Tor durch
 jede Tür."
+(kleiner Schlüssel). Man sagt, wenn man ihn mit seinem Zwilling verbindet, öffnet er ein Tor durch
+jede Tür."
 
 #: app/static/json/bonds.json:77
 msgid "Ancient Key Half"
@@ -1327,6 +1334,8 @@ msgid ""
 "true parentage is that of Fae nobility. The note also indicates a date "
 "and location where you are to meet them, deep in the the Wood."
 msgstr "Sie haben einen (kleinen) Brief erhalten, der unwiderlegbare Beweise dafür enthält, dass Ihre 
+wahre Abstammung aus der Feen-Edelfamilie stammt. In der Notiz ist auch ein Datum 
+und ein Ort angegeben, wo Sie sie treffen sollen, tief im Wald."
 wahre Abstammung aus der Feen-Edelfamilie stammt. In der Notiz ist auch ein Datum 
 und ein Ort angegeben, wo Sie sie treffen sollen, tief im Wald."
 
@@ -1374,6 +1383,7 @@ msgid ""
 " It is addressed only to the Lord Of Winter."
 msgstr "Auf Ihren Reisen haben Sie einen sterbenden Jäger getroffen, der Sie gebeten hat, seinen Lieben eine Nachricht zu überbringen. Nehmen Sie einen Brief (kleiner Brief), versiegelt mit Baumharz.
 Er ist nur an den Herrn des Winters gerichtet."
+Er ist nur an den Herrn des Winters gerichtet."
 
 #: app/static/json/bonds.json:148
 msgid ""
@@ -1399,6 +1409,8 @@ msgid ""
 "(1 Armor). With each passing month, the stone grows heavier by one slot. "
 "Until your debt is lifted, you cannot truly die."
 msgstr "Du hast dich mit einem Geschöpf des Waldes angelegt und es hat dich mit einem Steinherz verflucht
+(1 Rüstung). Mit jedem Monat wird der Stein um einen Platz schwerer.
+Bis deine Schuld getilgt ist, kannst du nicht wirklich sterben."
 (1 Rüstung). Mit jedem Monat wird der Stein um einen Platz schwerer.
 Bis deine Schuld getilgt ist, kannst du nicht wirklich sterben."
 
@@ -1434,6 +1446,7 @@ msgid ""
 "Something rattles inside."
 msgstr "Einst besuchte ein Entertainer Ihr Haus und erfüllte es mit Geschichten und Liedern. Eines Tages verließ er es ohne ein Wort und ließ nur eine Miniaturlaute zurück. 
 Da drinnen klappert etwas."
+Da drinnen klappert etwas."
 
 #: app/static/json/bonds.json:209
 msgid "Miniature Lute"
@@ -1460,6 +1473,9 @@ msgstr "Einer Ihrer Vorfahren hat einer Mooshexe Unrecht zugefügt, die ihre Blu
 Ihr Antlitz lässt Spiegel zerspringen. Sie haben bemerkt, dass die Scherben
 manchmal Illusionen offenbaren können."
 
+Ihr Antlitz lässt Spiegel zerspringen. Sie haben bemerkt, dass die Scherben
+manchmal Illusionen offenbaren können."
+
 # ============================================= OMENS
 # =============================================
 #: app/static/json/omens.json:4
@@ -1472,6 +1488,9 @@ msgstr "Das einst so reichhaltige Wasser eines lebensspendenden Flusses ist schw
 verseucht das Land und macht diejenigen krank, die davon trinken. Ein Dorfältester
 führt eine kürzlich erfolgte Entweihung als Ursache an, doch die meisten nehmen
 seine Worte nicht ernst."
+verseucht das Land und macht diejenigen krank, die davon trinken. Ein Dorfältester
+führt eine kürzlich erfolgte Entweihung als Ursache an, doch die meisten nehmen
+seine Worte nicht ernst."
 
 #: app/static/json/omens.json:7
 msgid ""
@@ -1480,6 +1499,9 @@ msgid ""
 "pattern to the frost found in windows, ponds, and cracks in the ground. "
 "It almost looks like a map."
 msgstr "Es fühlt sich an, als sei der Winter dieses Jahr zu schnell gekommen, Frost und Schnee 
+sind viel früher da als erwartet. Es wird von einem 
+Muster des Frosts gesprochen, der sich an Fenstern, Teichen und Rissen im Boden abzeichnet. 
+Es sieht fast aus wie eine Landkarte."
 sind viel früher da als erwartet. Es wird von einem 
 Muster des Frosts gesprochen, der sich an Fenstern, Teichen und Rissen im Boden abzeichnet. 
 Es sieht fast aus wie eine Landkarte."
@@ -1529,6 +1551,8 @@ msgid ""
 msgstr "Es gibt ein Dorf, das weithin für seinen beeindruckenden „Mutterbaum“ bekannt ist, 
 in dessen Zweigen angeblich die Geheimnisse der Stadt verborgen sind. Vor Kurzem hat er begonnen, 
 roten Saft zu bluten, was die Ältesten beunruhigt."
+in dessen Zweigen angeblich die Geheimnisse der Stadt verborgen sind. Vor Kurzem hat er begonnen, 
+roten Saft zu bluten, was die Ältesten beunruhigt."
 
 #: app/static/json/omens.json:28
 msgid ""
@@ -1543,6 +1567,7 @@ msgid ""
 "vortex of light and color. Some say that the divide between realms is at "
 "its weakest in centuries, and fear what may emerge from the other side."
 msgstr "Im Nachthimmel sind seltsame Risse aufgetaucht, die einen wirbelnden 
+Strudel aus Licht und Farbe enthüllen. Manche sagen, die Kluft zwischen den Reichen sei so schwach wie seit Jahrhunderten nicht mehr, und fürchten, was auf der anderen Seite auftauchen könnte."
 Strudel aus Licht und Farbe enthüllen. Manche sagen, die Kluft zwischen den Reichen sei so schwach wie seit Jahrhunderten nicht mehr, und fürchten, was auf der anderen Seite auftauchen könnte."
 
 #: app/static/json/omens.json:34
@@ -1573,6 +1598,8 @@ msgid ""
 msgstr "Jäger sprechen von einem Fluch, der jeden trifft, der ein Tier mit einem Streifen 
 weißen Fells tötet: Kurz darauf wird es tot in seinem Haus aufgefunden. Jeden Tag 
 gibt es weniger Tiere, die man jagen kann."
+weißen Fells tötet: Kurz darauf wird es tot in seinem Haus aufgefunden. Jeden Tag 
+gibt es weniger Tiere, die man jagen kann."
 
 #: app/static/json/omens.json:46
 msgid ""
@@ -1586,6 +1613,8 @@ msgid ""
 " unfamiliar patterns that have stargazers and sages perplexed. Even the "
 "animals seem disturbed."
 msgstr "Die Konstellationen am Nachthimmel haben begonnen, sich langsam zu verschieben und bilden
+unbekannte Muster, die Sterngucker und Weise verwirren. Sogar die
+Tiere scheinen verstört."
 unbekannte Muster, die Sterngucker und Weise verwirren. Sogar die
 Tiere scheinen verstört."
 
@@ -1635,6 +1664,10 @@ msgstr "Wirf 1W6. 1: Hals, 2: Hände, 3: Auge, 4: Brust, 5: Beine, 6: Ohr.\n
 Wirf 1W6.\n
 \n
 Wenn die Summe höher ist als deine maximalen HP, nimm das neue Ergebnis."
+\n
+Wirf 1W6.\n
+\n
+Wenn die Summe höher ist als deine maximalen HP, nimm das neue Ergebnis."
 
 #: app/static/json/scars.json:8
 msgid "2 HP - Rattling Blow"
@@ -1648,6 +1681,10 @@ msgid ""
 "\n"
 "If the total is higher than your max HP, take the new result."
 msgstr "Sie sind desorientiert und erschüttert. Beschreiben Sie, wie Sie sich wieder konzentrieren.\n
+\n
+Würfeln Sie 1d6.\n
+\n
+Wenn die Summe höher ist als Ihre maximalen HP, nehmen Sie das neue Ergebnis."
 \n
 Würfeln Sie 1d6.\n
 \n
@@ -1671,6 +1708,11 @@ bis du dich ein paar Stunden ausruhst.\n
 Dann würfele 1d6.\n
 \n
 Füge diesen Betrag zu deinen maximalen HP hinzu."
+bis du dich ein paar Stunden ausruhst.\n
+\n
+Dann würfele 1d6.\n
+\n
+Füge diesen Betrag zu deinen maximalen HP hinzu."
 
 #: app/static/json/scars.json:16
 msgid "4 HP - Broken Limb"
@@ -1684,6 +1726,10 @@ msgid ""
 "\n"
 "If the total is higher than your max HP, take the new result."
 msgstr "Würfeln Sie 1W6. 1-2: Bein, 3-4: Arm, 5: Rippe, 6: Schädel.\n
+\n
+Würfeln Sie nach der Heilung 2W6.\n
+\n
+Wenn die Summe höher ist als Ihre maximalen HP, nehmen Sie das neue Ergebnis."
 \n
 Würfeln Sie nach der Heilung 2W6.\n
 \n
@@ -1705,6 +1751,10 @@ msgstr "Sie leiden an einer schlimmen, unangenehmen Infektion.\n
 Wenn Sie sie überstanden haben, würfeln Sie 2d6.\n
 \n
 Wenn die Summe höher ist als Ihre maximalen HP, nehmen Sie das neue Ergebnis."
+\n
+Wenn Sie sie überstanden haben, würfeln Sie 2d6.\n
+\n
+Wenn die Summe höher ist als Ihre maximalen HP, nehmen Sie das neue Ergebnis."
 
 #: app/static/json/scars.json:24
 msgid "6 HP - Reorienting Head Wound"
@@ -1718,6 +1768,10 @@ msgid ""
 "\n"
 "If the total is higher than your current Attribute, take the new result."
 msgstr "Wirf 1W6. 1-2: STR, 3-4: DEX, 5-6: WIL.\n
+\n
+Wirf 3W6.\n
+\n
+Wenn die Summe höher ist als dein aktuelles Attribut, nimm das neue Ergebnis."
 \n
 Wirf 3W6.\n
 \n
@@ -1739,6 +1793,10 @@ msgstr "Sie können sich kaum bewegen, bis Sie ernsthafte Hilfe bekommen und sic
 Nach der Genesung würfeln Sie 3d6.\n
 \n
 Wenn die Summe höher ist als Ihr maximaler DEX, nehmen Sie das neue Ergebnis."
+\n
+Nach der Genesung würfeln Sie 3d6.\n
+\n
+Wenn die Summe höher ist als Ihr maximaler DEX, nehmen Sie das neue Ergebnis."
 
 #: app/static/json/scars.json:32
 msgid "8 HP - Deafened"
@@ -1756,6 +1814,10 @@ msgstr "Sie können nichts hören, bis Sie außergewöhnliche Hilfe finden.\n
 Machen Sie auf jeden Fall einen WIL-Save.\n
 \n
 Wenn Sie bestehen, erhöhen Sie Ihren maximalen WIL um 1W4."
+\n
+Machen Sie auf jeden Fall einen WIL-Save.\n
+\n
+Wenn Sie bestehen, erhöhen Sie Ihren maximalen WIL um 1W4."
 
 #: app/static/json/scars.json:36
 msgid "9 HP - Re-brained"
@@ -1769,6 +1831,10 @@ msgid ""
 "\n"
 "If the total is higher than your max WIL, take the new result."
 msgstr "Ein verborgener Teil Ihrer Psyche wird gelöst.\n
+\n
+Würfeln Sie 3d6.\n
+\n
+Wenn die Summe höher ist als Ihr maximaler WIL, nehmen Sie das neue Ergebnis."
 \n
 Würfeln Sie 3d6.\n
 \n
@@ -1792,6 +1858,11 @@ was davon.)\n
 Machen Sie dann einen WIL-Save.\n
 \n
 Wenn Sie bestehen, erhöhen Sie Ihren maximalen WIL um 1W6."
+was davon.)\n
+\n
+Machen Sie dann einen WIL-Save.\n
+\n
+Wenn Sie bestehen, erhöhen Sie Ihren maximalen WIL um 1W6."
 
 #: app/static/json/scars.json:44
 msgid "11 HP - Mortal Wound"
@@ -1805,6 +1876,10 @@ msgid ""
 "\n"
 "Take the new result as your max HP."
 msgstr "Du bist beraubt und außer Gefecht. Du stirbst innerhalb einer Stunde, wenn du nicht geheilt wirst.\n
+\n
+Würfel nach der Genesung 2d6.\n
+\n
+Nehme das neue Ergebnis als deine maximalen HP."
 \n
 Würfel nach der Genesung 2d6.\n
 \n
@@ -1823,6 +1898,10 @@ msgid ""
 "\n"
 "If the total is higher than your max HP, take the new result."
 msgstr "Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen kritischen Schaden fehlschlägt, stirbst du einen schrecklichen Tod.\n
+\n
+Wenn du bestehst, würfele 3d6.\n
+\n
+Wenn die Summe höher ist als deine maximalen HP, nimm das neue Ergebnis."
 \n
 Wenn du bestehst, würfele 3d6.\n
 \n
@@ -1865,7 +1944,7 @@ msgstr "Statuenhaft"
 
 #: app/static/json/traits.json:11
 msgid "Stout"
-msgstr ""
+msgstr "Gedrungen"
 
 #: app/static/json/party_events/forests.json:420
 #: app/static/json/party_events/names.json:101 app/static/json/traits.json:12
@@ -1878,7 +1957,7 @@ msgstr "Muttermal"
 
 #: app/static/json/traits.json:16
 msgid "Webbed"
-msgstr ""
+msgstr "Vernetzt"
 
 #: app/static/json/party_events/names.json:173 app/static/json/traits.json:17
 msgid "Scarred"
@@ -2183,7 +2262,7 @@ msgstr "Aurifex"
 
 #: app/static/json/backgrounds/barber-surgeon.json:1
 msgid "Barber-Surgeon"
-msgstr ""
+msgstr "Barbier-Chirurg"
 
 #: app/static/json/backgrounds/beast-handler.json:1
 msgid "Beast Handler"
@@ -2303,6 +2382,8 @@ msgid ""
 msgstr "Es gab eine Explosion und Sie haben Ihren Geruchssinn verloren. Naja, fast: 
 Sie können Gold riechen wie ein Schwein Trüffel. Nehmen Sie eine Dose Schnupftabak, 
 um die Wirkung abzumildern. Verwenden Sie sie jeden Tag, sonst werden Sie entwöhnt."
+Sie können Gold riechen wie ein Schwein Trüffel. Nehmen Sie eine Dose Schnupftabak, 
+um die Wirkung abzumildern. Verwenden Sie sie jeden Tag, sonst werden Sie entwöhnt."
 
 #: app/static/json/backgrounds/aurifex.json:49
 msgid "Tin of Snuff"
@@ -2318,7 +2399,7 @@ msgid ""
 "but always present. Although it cannot interact with the physical realm, "
 "you are able to share its senses. (Add a Fatigue each time.) It follows "
 "basic commands."
-msgstr ""
+msgstr "Sie haben ein geliebtes Haustier entmaterialisiert. Jetzt folgt es Ihnen, unsichtbar, aber immer präsent. Obwohl es nicht mit der physischen Welt interagieren kann, können Sie seine Sinne teilen. (Fügen Sie jedes Mal eine Ermüdung hinzu.) Es befolgt grundlegende Befehle."
 
 #: app/static/json/backgrounds/aurifex.json:60
 msgid ""
@@ -2334,6 +2415,7 @@ msgid ""
 "retreat. Take a heavy Metal Ingot and Gold Powder."
 msgstr "Sie waren geschickt darin, falsches Gold herzustellen, das fast genauso gut ist. 
 Irgendwann wurde Ihre List entdeckt und Sie mussten sich eilig zurückziehen. Nehmen Sie einen schweren Metallbarren und Goldpulver."
+Irgendwann wurde Ihre List entdeckt und Sie mussten sich eilig zurückziehen. Nehmen Sie einen schweren Metallbarren und Goldpulver."
 
 #: app/static/json/backgrounds/aurifex.json:66
 msgid "Metal Ingot"
@@ -2348,7 +2430,7 @@ msgid ""
 "Your alchemical recipe worked, but a rival stole the blueprint before "
 "your claims could be proven. Take a prototype Blunderbuss that takes one "
 "round to reload, and a thirst for revenge."
-msgstr ""
+msgstr "Ihr alchemistisches Rezept hat funktioniert, aber ein Rivale hat die Blaupause gestohlen, bevor Ihre Behauptungen bewiesen werden konnten. Nehmen Sie einen Donnerbüchsenprototyp, der eine Runde zum Nachladen braucht, und einen starken Durst nach Rache."
 
 #: app/static/json/backgrounds/aurifex.json:80
 msgid "Blunderbuss"
@@ -2364,6 +2446,7 @@ msgid ""
 " stock. Take a bottle of Universal Solvent that dissolves anything it "
 "touches into its constituent parts."
 msgstr "Man hat Sie verspottet, weil Sie herausgefunden haben, wie man Gold in Blei verwandelt, und Sie waren eine Lachnummer.
+Nehmen Sie eine Flasche Universallösungsmittel, das alles, was es berührt, in seine Bestandteile auflöst."
 Nehmen Sie eine Flasche Universallösungsmittel, das alles, was es berührt, in seine Bestandteile auflöst."
 
 #: app/static/json/backgrounds/aurifex.json:90
@@ -2388,7 +2471,7 @@ msgstr "Pyrophore Gel"
 msgid ""
 "Blast Sphere: A head-sized iron ball filled with explosive powder that "
 "detonates on impact."
-msgstr ""
+msgstr "Explosionskugel: Eine kopfgroße Eisenkugel, gefüllt mit Sprengstoffpulver, die beim Aufprall detoniert."
 
 #: app/static/json/backgrounds/aurifex.json:114
 msgid "Blast Sphere"
@@ -2406,7 +2489,7 @@ msgstr "Aqua Vita"
 
 #: app/static/json/backgrounds/aurifex.json:130
 msgid "Mimic Stone: Records a short phrase that can later be played back."
-msgstr ""
+msgstr "Mimikstein: Nimmt eine kurze Phrase auf, die später wiedergegeben werden kann."
 
 #: app/static/json/backgrounds/aurifex.json:133
 msgid "Mimic Stone"
@@ -2446,13 +2529,14 @@ msgid ""
 "DEX, 5 WIL"
 msgstr "Eine Miniaturnachbildung aus Ton von Ihnen, die jedem Ihrer Befehle folgt. Sie hasst es, von Ihnen gefesselt zu sein und beschwert sich bitterlich, wann immer es möglich ist. Jeder Schaden, der dem Homunkulus zugefügt wird, wird auch Ihnen zugefügt. 3 HP, 4 STR, 13 
 DEX, 5 WIL"
+DEX, 5 WIL"
 
 #: app/static/json/backgrounds/barber-surgeon.json:4
 msgid ""
 "You walk the line between healer and harrower, knowing the frailty of the"
 " flesh but also the secrets that lie within. With the right tools, life "
 "and death are merely words."
-msgstr ""
+msgstr "Sie bewegen sich auf dem schmalen Grat zwischen Heiler und Peiniger, kennen die Schwäche des Fleisches, aber auch die Geheimnisse, die darin verborgen liegen. Mit den richtigen Werkzeugen sind Leben und Tod nur Worte."
 
 #: app/static/json/backgrounds/barber-surgeon.json:31
 msgid "Bonesaw"
@@ -2473,7 +2557,7 @@ msgstr "Stellt 1 STR wieder her"
 
 #: app/static/json/backgrounds/barber-surgeon.json:46
 msgid "Stained medical finery"
-msgstr ""
+msgstr "Fleckige medizinische Kleidung"
 
 #: app/static/json/backgrounds/barber-surgeon.json:51
 msgid "How have you 'improved' yourself?"
@@ -2484,14 +2568,14 @@ msgid ""
 "You have a replacement eye that can magnify objects, act as a telescope, "
 "and provide minimal night vision. You cannot wear anything metal on your "
 "head, and the presence of strong magnets make you deprived."
-msgstr ""
+msgstr "Sie haben ein Ersatzauge, das Objekte vergrößern kann, als Teleskop fungiert und minimale Nachtsicht bietet. Sie können nichts Metallisches auf Ihrem Kopf tragen und die Anwesenheit von starken Magneten macht Sie kraftlos."
 
 #: app/static/json/backgrounds/barber-surgeon.json:58
 msgid ""
 "One foot is mostly metal (kick, d6), and you treat some tough terrain as "
 "Easy. Carry an Oil Can (6 uses). Without a daily application, you are "
 "deprived and noisy."
-msgstr ""
+msgstr "Ein Fuß besteht hauptsächlich aus Metall (Tritt, d6), und schwieriges Gelände behandelst du als Einfach. Trage eine Ölkanne (6 Anwendungen). Ohne tägliche Anwendung bist du kraftlos und laut."
 
 #: app/static/json/backgrounds/barber-surgeon.json:64
 msgid "Without a daily application you are deprived and noisy."
@@ -2502,6 +2586,7 @@ msgid ""
 "One of your fingers has been swapped, the bone replaced by gold and iron."
 " Take a Hook and a Screwdriver that can attach to the fingertip."
 msgstr "Einer Ihrer Finger wurde ausgetauscht, der Knochen durch Gold und Eisen ersetzt.
+Nehmen Sie einen Haken und einen Schraubenzieher, die Sie an der Fingerspitze befestigen können."
 Nehmen Sie einen Haken und einen Schraubenzieher, die Sie an der Fingerspitze befestigen können."
 
 #: app/static/json/backgrounds/barber-surgeon.json:72
@@ -2524,7 +2609,7 @@ msgstr "Beide Ohren wurden operativ verbessert, wodurch Ihr Gehör verdreifacht 
 msgid ""
 "Your chest is lined with alchemical sigils, toughening the skin (Armor "
 "1). Wearing other metallic armor nullifies the effect."
-msgstr ""
+msgstr "Deine Brust ist mit alchemistischen Siegeln bedeckt, die die Haut abhärten (Rüstung 1). Das Tragen anderer metallischer Rüstungen hebt diesen Effekt auf."
 
 #: app/static/json/backgrounds/barber-surgeon.json:86
 msgid "Alchemical Sigils"
@@ -2534,14 +2619,15 @@ msgstr "Alchemistische Siegel"
 msgid ""
 "Your chest is lined with alchemical sigils, _toughening the skin_ (1 "
 "Armor)."
-msgstr ""
+msgstr "Deine Brust ist mit alchemistischen Siegeln bedeckt, die _die Haut abhärten_ (1 Rüstung)."
 
 #: app/static/json/backgrounds/barber-surgeon.json:93
 msgid ""
 "One arm is fully metal and comes off at the shoulder. It can be used as a"
 " weapon (d8, bulky when not attached) and can move independently if you "
 "are within sight of it."
-msgstr ""
+msgstr "Ein Arm ist vollständig aus Metall und lässt sich an der Schulter abnehmen. Er kann als Waffe verwendet werden (d8, sperrig, wenn nicht angebracht) und kann sich unabhängig bewegen, wenn Sie
+in Sichtweite sind."
 
 #: app/static/json/backgrounds/barber-surgeon.json:99
 msgid "What rare tool is essential to your work?"
@@ -2553,7 +2639,7 @@ msgstr "Nachwachssalbe: Lässt einen Körperteil im Laufe eines Tages nachwachse
 
 #: app/static/json/backgrounds/barber-surgeon.json:105
 msgid "Regrowth Salve"
-msgstr ""
+msgstr "Nachwachssalbe"
 
 #: app/static/json/backgrounds/barber-surgeon.json:108
 msgid "Regrows a body part over the course of a day."
@@ -2596,6 +2682,9 @@ msgstr "Quecksilber: Ein Stimulans. Gehen Sie als Erster in den Kampf und besteh
 WIL-Saves für eine Stunde. Suchtgefahr: Speichern Sie STR oder verlieren Sie es nach 24
 
 Stunden ohne. 4 Anwendungen."
+WIL-Saves für eine Stunde. Suchtgefahr: Speichern Sie STR oder verlieren Sie es nach 24
+
+Stunden ohne. 4 Anwendungen."
 
 #: app/static/json/backgrounds/barber-surgeon.json:138
 msgid "Quicksilver"
@@ -2607,6 +2696,8 @@ msgid ""
 "one hour. Addictive: Save STR or become deprived after 24 hours without "
 "it."
 msgstr "Stimulans. Gehen Sie als Erster in den Kampf und bestehen Sie automatisch alle WIL-Saves für 
+eine Stunde. Suchtgefahr: Speichern Sie STR oder verlieren Sie es nach 24 Stunden ohne 
+es."
 eine Stunde. Suchtgefahr: Speichern Sie STR oder verlieren Sie es nach 24 Stunden ohne 
 es."
 
@@ -2630,6 +2721,7 @@ msgid ""
 "powerful magnetic force."
 msgstr "Magnetstein: Zieht gefährliche Elemente aus dem Körper und wirkt als 
 starke magnetische Kraft."
+starke magnetische Kraft."
 
 #: app/static/json/backgrounds/barber-surgeon.json:159
 msgid "Lodestone"
@@ -2640,6 +2732,7 @@ msgid ""
 "Draws out dangerous elements from the body and acts as a powerful "
 "magnetic force."
 msgstr "Zieht gefährliche Elemente aus dem Körper und wirkt wie eine starke 
+magnetische Kraft."
 magnetische Kraft."
 
 #: app/static/json/backgrounds/beast-handler.json:4
@@ -2728,6 +2821,8 @@ msgid ""
 msgstr "Vögel: Nehmen Sie eine Trällerpfeife (3 Ladungen). Sie kann jeden Vogelruf imitieren
 und sogar zum Senden einfacher Nachrichten verwendet werden. Aufladen: Füttern Sie ein Vogelbaby
 wie seine Mutter es tun würde, und blasen Sie dann."
+und sogar zum Senden einfacher Nachrichten verwendet werden. Aufladen: Füttern Sie ein Vogelbaby
+wie seine Mutter es tun würde, und blasen Sie dann."
 
 #: app/static/json/backgrounds/beast-handler.json:96
 msgid "Warble-Whistle"
@@ -2738,6 +2833,7 @@ msgid ""
 "Can imitate any bird call and can even be used to send simple messages. "
 "Recharge: Feed a baby bird as its mother would, then blow."
 msgstr "Kann jeden Vogelruf imitieren und sogar zum Senden einfacher Nachrichten verwendet werden. 
+Aufladen: Füttern Sie ein Vogelbaby wie seine Mutter und pusten Sie dann."
 Aufladen: Füttern Sie ein Vogelbaby wie seine Mutter und pusten Sie dann."
 
 #: app/static/json/backgrounds/beast-handler.json:105
@@ -2786,6 +2882,8 @@ msgid ""
 "concentration, you can borrow the senses of a nearby creature of your "
 "specialty."
 msgstr "Dass es auf der Welt viel mehr gibt, als man auf den ersten Blick sieht. Mit ruhiger
+Konzentration können Sie die Sinne eines Lebewesens Ihrer
+Spezialität in Ihrer Nähe nutzen."
 Konzentration können Sie die Sinne eines Lebewesens Ihrer
 Spezialität in Ihrer Nähe nutzen."
 
@@ -2848,6 +2946,7 @@ msgid ""
 "Fatigue each time. They do not always speak truthfully."
 msgstr "Ein Amulett in Form einer Krähe. Sie können den Toten eine Frage stellen, müssen aber jedes Mal eine
 Müdigkeit hinzufügen. Sie sprechen nicht immer die Wahrheit."
+Müdigkeit hinzufügen. Sie sprechen nicht immer die Wahrheit."
 
 #: app/static/json/backgrounds/bonekeeper.json:53
 msgid "Crow-shaped Amulet"
@@ -2858,6 +2957,7 @@ msgid ""
 "You can ask a question of the dead but must add a Fatigue each time. They"
 " do not always speak truthfully."
 msgstr "Sie können den Toten eine Frage stellen, müssen aber jedes Mal eine Ermüdung hinzufügen. Sie
+sprechen nicht immer die Wahrheit."
 sprechen nicht immer die Wahrheit."
 
 #: app/static/json/backgrounds/bonekeeper.json:60
@@ -2879,6 +2979,8 @@ msgid ""
 msgstr "Ein Bluteimer (sperrig) von einem örtlichen Todeskult. Leeren Sie ihn, um einen Diener zu erwecken, der aus dem, was darunter vergraben ist, gebaut wird, mit 6 HP, 1 Rüstung, 13 STR, 11 DEX,
 4 WIL und Scherbenfäusten (d8+d8). Es kann immer nur ein Diener erweckt werden. Wenn er zerstört wird, verlieren Sie dauerhaft 1d4 STR. Aufladen: Mit dem
 Blut eines sterbenden Kriegers füllen."
+4 WIL und Scherbenfäusten (d8+d8). Es kann immer nur ein Diener erweckt werden. Wenn er zerstört wird, verlieren Sie dauerhaft 1d4 STR. Aufladen: Mit dem
+Blut eines sterbenden Kriegers füllen."
 
 #: app/static/json/backgrounds/bonekeeper.json:67
 msgid "Blood Pail"
@@ -2889,6 +2991,7 @@ msgid ""
 "A burial wagon (+6 slots, slow) from your last job. It came with a "
 "stubborn old donkey (+4 slots, only +2 slots if pulling wagon)."
 msgstr "Ein Totenwagen (+6 Plätze, langsam) von Ihrem letzten Job. Er kam mit einem 
+störrischen alten Esel (+4 Plätze, nur +2 Plätze, wenn er den Wagen zieht)."
 störrischen alten Esel (+4 Plätze, nur +2 Plätze, wenn er den Wagen zieht)."
 
 #: app/static/json/backgrounds/bonekeeper.json:78
@@ -2918,6 +3021,7 @@ msgid ""
 "magic is used nearby."
 msgstr "Sie können magische Auren in der Nähe sehen oder hören. Wird bei Berührung warm, wenn
 in der Nähe Magie eingesetzt wird."
+in der Nähe Magie eingesetzt wird."
 
 #: app/static/json/backgrounds/bonekeeper.json:97
 msgid ""
@@ -2944,6 +3048,7 @@ msgid ""
 "Manacles. Though old, it's still effective even against the very strong. "
 "You don't have the key."
 msgstr "Handschellen. Obwohl alt, sind sie selbst gegen die ganz Starken immer noch wirksam. 
+Du hast den Schlüssel nicht."
 Du hast den Schlüssel nicht."
 
 #: app/static/json/backgrounds/bonekeeper.json:115
@@ -3013,6 +3118,7 @@ msgid ""
 "Repellent. Powerful stuff. Its faded label makes it unclear what it is "
 "actually meant to repel, though. Perhaps everything. 3 uses."
 msgstr "Abwehrmittel. Starkes Zeug. Das verblasste Etikett macht jedoch unklar, was es 
+eigentlich abwehren soll. Vielleicht alles. 3 Verwendungsmöglichkeiten."
 eigentlich abwehren soll. Vielleicht alles. 3 Verwendungsmöglichkeiten."
 
 #: app/static/json/backgrounds/bonekeeper.json:165
@@ -3095,6 +3201,7 @@ msgid ""
 "use)."
 msgstr "Ein Gildenlager. Nimm eine Leiter (sperrig, 10 Fuß) und Blendpulver (1
 Verwendung)."
+Verwendung)."
 
 #: app/static/json/backgrounds/cutpurse.json:62
 msgid "Ladder"
@@ -3114,6 +3221,7 @@ msgid ""
 "Arcane Eye (petty)."
 msgstr "Geldverleiher. Jemand kam Ihnen zuvor, hinterließ aber eine Schriftrolle des 
 Arkanen Auges (kleinlich)."
+Arkanen Auges (kleinlich)."
 
 #: app/static/json/backgrounds/cutpurse.json:77
 msgid "Scroll (Arcane Eye)"
@@ -3132,6 +3240,7 @@ msgid ""
 "Strong Silk Rope (30ft) and a queasy feeling."
 msgstr "Quartier des Polizisten. Du bist entkommen, hast aber einige Freunde zurückgelassen. Nimm 
 Starkes Seidenseil (30 Fuß) und ein mulmiges Gefühl."
+Starkes Seidenseil (30 Fuß) und ein mulmiges Gefühl."
 
 #: app/static/json/backgrounds/cutpurse.json:87
 msgid "Strong Silk Rope"
@@ -3146,6 +3255,7 @@ msgid ""
 "A university. You were seen but not pursued. You still don't know why. "
 "Take Smoke Pellets (3 uses)."
 msgstr "Eine Universität. Du wurdest gesehen, aber nicht verfolgt. Du weißt immer noch nicht, warum. 
+Nimm Rauchpellets (3 Anwendungen)."
 Nimm Rauchpellets (3 Anwendungen)."
 
 #: app/static/json/backgrounds/cutpurse.json:97
@@ -3176,6 +3286,7 @@ msgid ""
 "Recharge: Bundle it with at least 100gp for a night."
 msgstr "Gildfinger: 1 Ladung. Ein Fingerhandschuh, der jeden gewöhnlichen Schlüssel nachahmt. 
 Aufladen: Bündeln Sie ihn mit mindestens 100 Goldstücken für eine Nacht."
+Aufladen: Bündeln Sie ihn mit mindestens 100 Goldstücken für eine Nacht."
 
 #: app/static/json/backgrounds/cutpurse.json:124
 msgid "Gildfinger"
@@ -3201,6 +3312,7 @@ msgid ""
 " after the last use."
 msgstr "Ein Monokel, mit dem Sie durch Wände oder andere Hindernisse sehen können. Zerbricht
 nach der letzten Verwendung."
+nach der letzten Verwendung."
 
 #: app/static/json/backgrounds/cutpurse.json:144
 msgid ""
@@ -3208,6 +3320,7 @@ msgid ""
 "distance that they cannot resist following. Recharge: Lose a dear memory."
 " (Describe it.)"
 msgstr "Sweetwhistle: 1 Ladung. Die Zuhörer hören in der Ferne eine sanfte, vertraute Stimme, der sie nicht widerstehen können, zu folgen. Aufladen: Eine liebgewonnene Erinnerung verlieren.
+(Beschreiben Sie sie.)"
 (Beschreiben Sie sie.)"
 
 #: app/static/json/backgrounds/cutpurse.json:147
@@ -3239,6 +3352,7 @@ msgid ""
 "Everyone remembers what happened. Petty."
 msgstr "Teetotum umkehren: 1 Verwendung. Beim Drehen springt die Zeit 30 Sekunden zurück. 
 Jeder erinnert sich, was passiert ist. Kleinlich."
+Jeder erinnert sich, was passiert ist. Kleinlich."
 
 #: app/static/json/backgrounds/cutpurse.json:169
 msgid "Reverse Teetotum"
@@ -3250,6 +3364,7 @@ msgid ""
 "happened."
 msgstr "Beim Drehen springt die Zeit 30 Sekunden zurück. Jeder erinnert sich, was 
 passiert ist."
+passiert ist."
 
 #: app/static/json/backgrounds/fieldwarden.json:4
 msgid ""
@@ -3257,6 +3372,8 @@ msgid ""
 "position of great honor, while it lasts: many guardians do not live out "
 "their natural lives. Roll a second time on the Bonds table."
 msgstr "Beschützer der Ernte, Abwehr von Schädlingen, Dieben und Bestien. Eine 
+Position von großer Ehre, solange sie besteht: Viele Wächter leben ihr 
+natürliches Leben nicht aus. Würfeln Sie ein zweites Mal auf der Tabelle „Bindungen“."
 Position von großer Ehre, solange sie besteht: Viele Wächter leben ihr 
 natürliches Leben nicht aus. Würfeln Sie ein zweites Mal auf der Tabelle „Bindungen“."
 
@@ -3307,6 +3424,7 @@ msgid ""
 "Afterward you add two Fatigue."
 msgstr "Wenn du es einnimmst, kannst du mit der vierfachen Geschwindigkeit deines normalen Tempos sprinten. 
 Anschließend erhältst du zwei Erschöpfungen."
+Anschließend erhältst du zwei Erschöpfungen."
 
 #: app/static/json/backgrounds/fieldwarden.json:64
 msgid ""
@@ -3336,12 +3454,15 @@ msgid ""
 "blood."
 msgstr "Bei kritischem Schaden wird sein nächster Angriff durch den Kontakt mit
 Blut verstärkt."
+Blut verstärkt."
 
 #: app/static/json/backgrounds/fieldwarden.json:84
 msgid ""
 "The Withering, a type of stem rot from the Roots. Take a Diseased Crop (6"
 " uses) that quickly decays any plant it touches."
 msgstr "Das Welken, eine Art Stängelfäule aus den Wurzeln. Nehmen Sie eine erkrankte Pflanze (6
+
+Verwendungen), die jede Pflanze, die sie berührt, schnell verrotten lässt."
 
 Verwendungen), die jede Pflanze, die sie berührt, schnell verrotten lässt."
 
@@ -3360,6 +3481,7 @@ msgid ""
 "will (once per day) but must make a WIL save to revert. Anyone left alive"
 " from your attacks must make a WIL save to avoid infection."
 msgstr "Wölfe, dachten Sie zumindest. Sie sind jetzt ein Werwolf [8 HP, 15 STR, 14 DEX, 
+Klauen (d6+d6), Biss (d8)]. Ihre WIL bleibt gleich. Sie können sich nach Belieben verwandeln (einmal pro Tag), müssen aber einen WIL-Save durchführen, um die WIL-Wende rückgängig zu machen. Jeder, der nach Ihren Angriffen am Leben bleibt, muss einen WIL-Save durchführen, um eine Infektion zu vermeiden."
 Klauen (d6+d6), Biss (d8)]. Ihre WIL bleibt gleich. Sie können sich nach Belieben verwandeln (einmal pro Tag), müssen aber einen WIL-Save durchführen, um die WIL-Wende rückgängig zu machen. Jeder, der nach Ihren Angriffen am Leben bleibt, muss einen WIL-Save durchführen, um eine Infektion zu vermeiden."
 
 #: app/static/json/backgrounds/fieldwarden.json:99
@@ -3382,6 +3504,7 @@ msgid ""
 "blood, granting the weapon's next attack the blast quality."
 msgstr "Blutrankenpeitsche: d8 Schaden. Bei kritischem Schaden saugt sie dem Ziel 
 Blut aus, was dem nächsten Angriff der Waffe die Qualität einer Explosion verleiht."
+Blut aus, was dem nächsten Angriff der Waffe die Qualität einer Explosion verleiht."
 
 #: app/static/json/backgrounds/fieldwarden.json:116
 msgid "Bloodvine Whip"
@@ -3392,6 +3515,7 @@ msgid ""
 "On Critical Damage, it drains the target's blood, granting the weapon's "
 "next attack the blast quality."
 msgstr "Bei kritischem Schaden saugt es dem Ziel Blut aus und verleiht der Waffe beim 
+nächsten Angriff die Qualität einer Explosion."
 nächsten Angriff die Qualität einer Explosion."
 
 #: app/static/json/backgrounds/fieldwarden.json:123
@@ -3415,6 +3539,7 @@ msgid ""
 "Sun Stick: Provides ample warmth and light for up to one hour. Recharge: "
 "Leave in heavy sunlight for a full day. 1 use."
 msgstr "Sonnenstift: Spendet bis zu einer Stunde lang reichlich Wärme und Licht. Aufladen: 
+Einen ganzen Tag lang in der prallen Sonne liegen lassen. 1 Anwendung."
 Einen ganzen Tag lang in der prallen Sonne liegen lassen. 1 Anwendung."
 
 #: app/static/json/backgrounds/fieldwarden.json:136
@@ -3449,6 +3574,7 @@ msgid ""
 "areas heavy with plant life a bit easier."
 msgstr "Grüne Pfeife: Eine kleine Flöte, die Pflanzen beruhigt und den Durchgang durch 
 Bereiche mit viel Pflanzenleben erleichtert."
+Bereiche mit viel Pflanzenleben erleichtert."
 
 #: app/static/json/backgrounds/fieldwarden.json:157
 msgid "Greenwhistle"
@@ -3466,6 +3592,8 @@ msgid ""
 " Critical Damage the flowers dissolve into dust, but you act as if your "
 "save succeeded (STR loss still occurs)."
 msgstr "Everbloom-Band: Ein Reif, geschmückt mit Blumen, die niemals verwelken. Wenn Sie
+kritischen Schaden erleiden, lösen sich die Blumen in Staub auf, aber Sie verhalten sich, als ob Ihr
+Schutz erfolgreich gewesen wäre (Str-Verlust tritt trotzdem auf)."
 kritischen Schaden erleiden, lösen sich die Blumen in Staub auf, aber Sie verhalten sich, als ob Ihr
 Schutz erfolgreich gewesen wäre (Str-Verlust tritt trotzdem auf)."
 
@@ -3486,6 +3614,8 @@ msgid ""
 "musician, the song of your bowstring nought but a warning, singing the "
 "silent promise of a quick death."
 msgstr "Du schlägst aus der Ferne zu, aber das macht dich nicht zu einem Feigling. Du bist ein
+Musiker, das Lied deiner Bogensehne ist nichts weiter als eine Warnung, das
+stumme Versprechen eines schnellen Todes."
 Musiker, das Lied deiner Bogensehne ist nichts weiter als eine Warnung, das
 stumme Versprechen eines schnellen Todes."
 
@@ -3532,6 +3662,7 @@ msgid ""
 "bite (d8)]. It only eats live game."
 msgstr "Falknerei. Du hältst einen Falken [3 KP, 5 STR, 16 DEX, 4 WIL, Klauen (d6+d6), 
 Biss (d8)]. Er frisst ausschließlich lebendes Wild."
+Biss (d8)]. Er frisst ausschließlich lebendes Wild."
 
 #: app/static/json/backgrounds/fletchwind.json:55
 msgid ""
@@ -3554,6 +3685,7 @@ msgid ""
 "Scouting. When taking the Travel action, your presence decreases the "
 "chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6)."
 msgstr "Kundschaftung. Wenn Sie die Reiseaktion ausführen, verringert Ihre Anwesenheit die 
+Chance, sich zu verlaufen, um einen Schritt (z. B. wird aus 4 in 6 3 in 6)."
 Chance, sich zu verlaufen, um einen Schritt (z. B. wird aus 4 in 6 3 in 6)."
 
 #: app/static/json/backgrounds/fletchwind.json:69
@@ -3578,6 +3710,7 @@ msgid ""
 " is torn off."
 msgstr "Traubeneiche (d8, sperrig). Schlingt in Ziele. Bei kritischem Schaden wird etwas
 abgerissen."
+abgerissen."
 
 #: app/static/json/backgrounds/fletchwind.json:85
 msgid "Sessile Oak"
@@ -3592,6 +3725,7 @@ msgid ""
 "Stone Pine (d6, bulky). Produces one use of Sticky Sap per day. The sap "
 "is highly explosive."
 msgstr "Zirbe (d6, sperrig). Produziert eine Verwendung von klebrigem Saft pro Tag. Der Saft
+ist hochexplosiv."
 ist hochexplosiv."
 
 #: app/static/json/backgrounds/fletchwind.json:95
@@ -3608,6 +3742,7 @@ msgid ""
 "(+1 Armor)."
 msgstr "Weiße Esche (d6, sperrig). Kann im Nahkampf anstelle eines Schildes verwendet werden 
 (+1 Rüstung)."
+(+1 Rüstung)."
 
 #: app/static/json/backgrounds/fletchwind.json:105
 msgid "White Ash"
@@ -3622,6 +3757,7 @@ msgid ""
 "Striped Bamboo (d6). Collapsible, it only requires one slot (but still "
 "requires both hands)."
 msgstr "Gestreifter Bambus (d6). Zusammenklappbar, benötigt nur einen Steckplatz (aber trotzdem 
+beide Hände)."
 beide Hände)."
 
 #: app/static/json/backgrounds/fletchwind.json:115
@@ -3683,6 +3819,7 @@ msgid ""
 "An old hunter. You were both quite happy, until it all ended. Take a "
 "Weathered Longbow (d8, bulky) and a Leather Jerkin (1 Armor)."
 msgstr "Ein alter Jäger. Ihr wart beide ziemlich glücklich, bis alles vorbei war. Nimm einen 
+Verwitterten Langbogen (d8, sperrig) und ein Lederwams (1 Rüstung)."
 Verwitterten Langbogen (d8, sperrig) und ein Lederwams (1 Rüstung)."
 
 #: app/static/json/backgrounds/foundling.json:55
@@ -3769,6 +3906,7 @@ msgid ""
 "pace. Leaves grow along the spine, and it smells faintly of decay."
 msgstr "Pflanzen und Bäume in der Nähe gehorchen Ihnen und erlangen die Fähigkeit, sich langsam zu bewegen.
 Blätter wachsen entlang der Wirbelsäule und es riecht leicht nach Verwesung."
+Blätter wachsen entlang der Wirbelsäule und es riecht leicht nach Verwesung."
 
 #: app/static/json/backgrounds/foundling.json:128
 msgid "What keeps bad tidings at bay?"
@@ -3795,6 +3933,7 @@ msgid ""
 "Stink Jar: Shattering this jar releases an odor so foul all nearby must "
 "make a STR save or immediately vomit. 1 use."
 msgstr "Stinkglas: Das Zerbrechen dieses Glases setzt einen so widerlichen Geruch frei, dass alle in der Nähe
+einen STR-Save durchführen oder sich sofort übergeben müssen. 1 Verwendung."
 einen STR-Save durchführen oder sich sofort übergeben müssen. 1 Verwendung."
 
 #: app/static/json/backgrounds/foundling.json:145
@@ -3830,6 +3969,7 @@ msgid ""
 "Overuse can cause dream-addiction."
 msgstr "Traumstein: Ein glatter blauer Stein, der dabei hilft, sich Träume klarer zu merken.
 Übermäßiger Gebrauch kann Traumsucht verursachen."
+Übermäßiger Gebrauch kann Traumsucht verursachen."
 
 #: app/static/json/backgrounds/foundling.json:166
 msgid "Dream Stone"
@@ -3863,6 +4003,8 @@ msgid ""
 "the foot of she who left you and that it protects you from witch magic. "
 "Petty."
 msgstr "Hasenpfote: Du hast sie getragen, als sie dich gefunden haben. Sie sagen, es ist
+der Fuß derjenigen, die dich zurückgelassen hat, und er schützt dich vor Hexenmagie.
+Kleinlich."
 der Fuß derjenigen, die dich zurückgelassen hat, und er schützt dich vor Hexenmagie.
 Kleinlich."
 
@@ -3961,6 +4103,7 @@ msgid ""
 "clears the room. Bottled."
 msgstr "Der Kontakt mit seinem Aroma verursacht starke Übelkeit und Erbrechen. In jedem Fall 
 klärt es den Raum. In Flaschen abgefüllt."
+klärt es den Raum. In Flaschen abgefüllt."
 
 #: app/static/json/backgrounds/fungal-forager.json:79
 msgid ""
@@ -3968,6 +4111,7 @@ msgid ""
 " stay the same size.) You return to normal size within the hour, often in"
 " fits and starts. 1 use."
 msgstr "Sproutcup. Durch Einnahme auf die Größe einer Maus schrumpfen. (Ihre Habseligkeiten
+bleiben gleich groß.) Innerhalb einer Stunde nehmen Sie wieder Ihre normale Größe an, oft ruckartig. 1 Anwendung."
 bleiben gleich groß.) Innerhalb einer Stunde nehmen Sie wieder Ihre normale Größe an, oft ruckartig. 1 Anwendung."
 
 #: app/static/json/backgrounds/fungal-forager.json:82
@@ -3987,6 +4131,7 @@ msgid ""
 " to restore d6 WIL. You will dream of the dead and their stories. 1 use."
 msgstr "Wurzelblume. Ein weißer Pilz, der nur auf Leichen tief unter der Erde vorkommt. Einnahme
 um d6 WIL wiederherzustellen. Sie werden von den Toten und ihren Geschichten träumen. 1 Anwendung."
+um d6 WIL wiederherzustellen. Sie werden von den Toten und ihren Geschichten träumen. 1 Anwendung."
 
 #: app/static/json/backgrounds/fungal-forager.json:93
 msgid "Rootflower"
@@ -3997,6 +4142,7 @@ msgid ""
 "A white fungus found only on corpses deep underground. Ingest to restore "
 "d6 WIL. You will dream of the dead and their stories."
 msgstr "Ein weißer Pilz, der nur auf Leichen tief unter der Erde vorkommt. Durch Einnahme wird 
+d6 WIL wiederhergestellt. Sie werden von den Toten und ihren Geschichten träumen."
 d6 WIL wiederhergestellt. Sie werden von den Toten und ihren Geschichten träumen."
 
 #: app/static/json/backgrounds/fungal-forager.json:103
@@ -4176,6 +4322,8 @@ msgid ""
 msgstr "Ein übellauniger Waldgeist hat dich für den Diebstahl verflucht und dich als 
 Feind seiner Art markiert. Nimm einen Bezoarstein. Seine Einnahme heilt jedes Gift 
 (1 Verwendung, sofern nicht zurückgeholt)."
+Feind seiner Art markiert. Nimm einen Bezoarstein. Seine Einnahme heilt jedes Gift 
+(1 Verwendung, sofern nicht zurückgeholt)."
 
 #: app/static/json/backgrounds/greenwise.json:57
 msgid "Bezoar Stone"
@@ -4209,6 +4357,8 @@ msgid ""
 msgstr "Durch Ihre radikalen Experimente ist Ihre Haut grün geworden und Sie erhalten nun 
 Nährstoffe wie eine Pflanze. Sie brauchen keine Rationen, aber ein Tag ohne 
 ausreichend Sonnenlicht und Wasser lässt Sie unterversorgt zurück."
+Nährstoffe wie eine Pflanze. Sie brauchen keine Rationen, aber ein Tag ohne 
+ausreichend Sonnenlicht und Wasser lässt Sie unterversorgt zurück."
 
 #: app/static/json/backgrounds/greenwise.json:88
 msgid ""
@@ -4223,6 +4373,8 @@ msgid ""
 "infertility. Take a Healing Potion that completely restores STR. Only you"
 " know of its unintended side-effects."
 msgstr "Sie haben eine stärkende Tinktur hergestellt, die auch unbeabsichtigte
+Unfruchtbarkeit verursacht. Nehmen Sie einen Heiltrank, der STR vollständig wiederherstellt. Nur Sie
+kennen die unbeabsichtigten Nebenwirkungen."
 Unfruchtbarkeit verursacht. Nehmen Sie einen Heiltrank, der STR vollständig wiederherstellt. Nur Sie
 kennen die unbeabsichtigten Nebenwirkungen."
 
@@ -4300,6 +4452,7 @@ msgid ""
 "damage (blast, 3 uses)."
 msgstr "Samenbombe: Ein Leinensack gefüllt mit Samen, die beim Aufprall explodieren. d6 
 Schaden (Explosion, 3 Anwendungen)."
+Schaden (Explosion, 3 Anwendungen)."
 
 #: app/static/json/backgrounds/greenwise.json:155
 msgid "Seed Bomb"
@@ -4311,12 +4464,14 @@ msgid ""
 " 3 uses)."
 msgstr "Ein Leinensack gefüllt mit Samen, die beim Aufprall explodieren. d6 Schaden (Explosion,
 3 Anwendungen)."
+3 Anwendungen)."
 
 #: app/static/json/backgrounds/greenwise.json:163
 msgid ""
 "Briarvine: Entangles any creature up to horse size (STR to break free). "
 "Reusable."
 msgstr "Dornenranke: Verwickelt jedes Lebewesen bis zur Größe eines Pferdes (STR zum Befreien). 
+Wiederverwendbar."
 Wiederverwendbar."
 
 #: app/static/json/backgrounds/greenwise.json:166
@@ -4343,6 +4498,7 @@ msgid ""
 "A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. "
 "Wrapped in vines that must be destroyed again with each use."
 msgstr "Plötzlich sprießt ein Dickicht aus Bäumen und dichtem Buschwerk mit einer Breite von bis zu 15 Metern. 
+Umhüllt von Ranken, die bei jeder Verwendung erneut zerstört werden müssen."
 Umhüllt von Ranken, die bei jeder Verwendung erneut zerstört werden müssen."
 
 #: app/static/json/backgrounds/half-witch.json:36
@@ -4373,6 +4529,8 @@ msgid ""
 msgstr "Eine Schwarze Rosengeige (sperrig). Ihre Musik verursacht tiefe Traurigkeit und 
 Unbeweglichkeit bei Sterblichen in der Nähe. (Andere sind lediglich fasziniert.) Du weißt nicht, 
 wie man spielt."
+Unbeweglichkeit bei Sterblichen in der Nähe. (Andere sind lediglich fasziniert.) Du weißt nicht, 
+wie man spielt."
 
 #: app/static/json/backgrounds/half-witch.json:57
 msgid "Black Rose Fiddle"
@@ -4383,6 +4541,7 @@ msgid ""
 "Its music causes intense sadness and immobility in nearby mortals. "
 "(Others are merely fascinated.) You don't know how to play."
 msgstr "Seine Musik löst bei Sterblichen in der Nähe tiefe Traurigkeit und Reglosigkeit aus. 
+(Andere sind lediglich fasziniert.) Du weißt nicht, wie man spielt."
 (Andere sind lediglich fasziniert.) Du weißt nicht, wie man spielt."
 
 #: app/static/json/backgrounds/half-witch.json:64
@@ -4400,6 +4559,7 @@ msgid ""
 "You are extremely light and can fall a few stories without getting hurt. "
 "Try to avoid tearing them or getting them wet."
 msgstr "Sie sind extrem leicht und können mehrere Stockwerke hoch fallen, ohne sich zu verletzen. 
+Versuchen Sie, sie nicht zu zerreißen oder nass zu machen."
 Versuchen Sie, sie nicht zu zerreißen oder nass zu machen."
 
 #: app/static/json/backgrounds/half-witch.json:74
@@ -4437,6 +4597,7 @@ msgid ""
 "being and is entirely devoted to you."
 msgstr "[8 HP, 3 STR, 11 DEX, 13 WIL, Schnabel, (d6)]. Es spricht wie ein intelligentes
 Wesen und ist dir vollkommen ergeben."
+Wesen und ist dir vollkommen ergeben."
 
 #: app/static/json/backgrounds/half-witch.json:94
 msgid ""
@@ -4471,6 +4632,7 @@ msgid ""
 "has died or return to life a creature that has died only moments before. "
 "3 uses."
 msgstr "Wiedergeburtsasche: Überreste eines Baumgeistes. Streuen Sie es, um ein erloschenes Feuer wieder zu entzünden oder eine Kreatur wieder zum Leben zu erwecken, die nur wenige Augenblicke zuvor gestorben ist. 
+3 Verwendungen."
 3 Verwendungen."
 
 #: app/static/json/backgrounds/half-witch.json:116
@@ -4531,12 +4693,14 @@ msgid ""
 "(+1 Armor)."
 msgstr "Saft, der im Tausch gegen Blut gewonnen wird. Wird hart, wenn man ihn auf eine Oberfläche reibt 
 (+1 Rüstung)."
+(+1 Rüstung)."
 
 #: app/static/json/backgrounds/half-witch.json:157
 msgid ""
 "Nightdust Powder: The ritual burning of six owls. When tossed in the air,"
 " day turns to night for a short while. 2 uses."
 msgstr "Nachtstaubpulver: Das rituelle Verbrennen von sechs Eulen. Wenn es in die Luft geworfen wird,
+wird der Tag für kurze Zeit zur Nacht. 2 Anwendungen."
 wird der Tag für kurze Zeit zur Nacht. 2 Anwendungen."
 
 #: app/static/json/backgrounds/half-witch.json:160
@@ -4553,6 +4717,8 @@ msgid ""
 "from its iron tin, it can absorb the effects of an active magical effect."
 " If destroyed, the magic is released. 1 use."
 msgstr "Hexenstein: Gesammelt aus einem Fluss, der von der anderen Seite fließt. Aus seiner 
+Eisendose entfernt, kann er die Auswirkungen eines aktiven magischen Effekts absorbieren.
+Bei Zerstörung wird die Magie freigesetzt. 1 Verwendung."
 Eisendose entfernt, kann er die Auswirkungen eines aktiven magischen Effekts absorbieren.
 Bei Zerstörung wird die Magie freigesetzt. 1 Verwendung."
 
@@ -4615,6 +4781,7 @@ msgid ""
 " in darkness and becomes very hot in the presence of witchcraft."
 msgstr "Orden des Blutenden Sterns. Nimm eine Sterneisen-Keule (d8). Sie leuchtet schwach
 in der Dunkelheit und wird in Gegenwart von Hexerei sehr heiß."
+in der Dunkelheit und wird in Gegenwart von Hexerei sehr heiß."
 
 #: app/static/json/backgrounds/hexenbane.json:64
 msgid "Star-Iron Mace"
@@ -4632,6 +4799,8 @@ msgid ""
 " bulky). You have contacts in most towns (the more rural, the better) "
 "willing to provide aid, food, or even weapons."
 msgstr "Orden des Glassiegels. Nehmen Sie ein Kurzschwert (d8) und ein Kettenhemd (2 Rüstung,
+sperrig). Sie haben Kontakte in den meisten Städten (je ländlicher, desto besser),
+die bereit sind, Hilfe, Nahrung oder sogar Waffen bereitzustellen."
 sperrig). Sie haben Kontakte in den meisten Städten (je ländlicher, desto besser),
 die bereit sind, Hilfe, Nahrung oder sogar Waffen bereitzustellen."
 
@@ -4662,6 +4831,8 @@ msgid ""
 msgstr "Schauen Sie hindurch, um unsichtbare Zeichen, Kreaturen und andere magische 
 Effekte zu sehen. Sie können Ihr Auge danach eine Stunde lang nicht mehr benutzen (Sie sind 
 entzogen)."
+Effekte zu sehen. Sie können Ihr Auge danach eine Stunde lang nicht mehr benutzen (Sie sind 
+entzogen)."
 
 #: app/static/json/backgrounds/hexenbane.json:94
 msgid ""
@@ -4682,6 +4853,8 @@ msgid ""
 "Order of the Silent Veil. Take a Quell Stone (2 uses) wrapped in burlap. "
 "Extinguishes any nearby flames once exposed to air."
 msgstr "Orden des stillen Schleiers. Nimm einen Quellstein (2 Anwendungen), der in Sackleinen eingewickelt ist.
+
+Löscht alle Flammen in der Nähe, sobald sie der Luft ausgesetzt werden."
 
 Löscht alle Flammen in der Nähe, sobald sie der Luft ausgesetzt werden."
 
@@ -4727,6 +4900,7 @@ msgid ""
 "charm, hatred, frenzy, and so on. If you break this vow, you lose d6 WIL."
 msgstr "Selbstlosigkeit. Sie sind immun gegen bewusstseinsverändernde magische Effekte wie
 Charme, Hass, Raserei usw. Wenn Sie dieses Gelübde brechen, verlieren Sie d6 WIL."
+Charme, Hass, Raserei usw. Wenn Sie dieses Gelübde brechen, verlieren Sie d6 WIL."
 
 #: app/static/json/backgrounds/hexenbane.json:138
 msgid ""
@@ -4734,6 +4908,8 @@ msgid ""
 " are enhanced. If your vow is broken, you can never use that weapon type "
 "again."
 msgstr "Gnade. Wähle einen Waffentyp (Schlagwaffe, Klinge usw.). Angriffe mit dieser Waffe
+werden verstärkt. Wenn dein Schwur gebrochen wird, kannst du diesen Waffentyp
+nie wieder verwenden."
 werden verstärkt. Wenn dein Schwur gebrochen wird, kannst du diesen Waffentyp
 nie wieder verwenden."
 
@@ -4749,6 +4925,8 @@ msgid ""
 "returning to the previous limit at the end of combat. If your vow is "
 "broken, you die."
 msgstr "Tapferkeit. Wenn Sie zum ersten Mal kritischen Schaden zufügen, erhalten Sie +d4 HP und 
+kehren am Ende des Kampfes zum vorherigen Limit zurück. Wenn Ihr Schwur 
+gebrochen wird, sterben Sie."
 kehren am Ende des Kampfes zum vorherigen Limit zurück. Wenn Ihr Schwur 
 gebrochen wird, sterben Sie."
 
@@ -4802,6 +4980,8 @@ msgid ""
 msgstr "Die Menge liebte Ihre eingängige Melodie über einen Adligen und seine romantischen Schwächen.
 Der betreffende Adlige hingegen nicht so sehr. Nehmen Sie das Gedankenlese-Zauberbuch und einen
 Haftbefehl gegen Sie mit."
+Der betreffende Adlige hingegen nicht so sehr. Nehmen Sie das Gedankenlese-Zauberbuch und einen
+Haftbefehl gegen Sie mit."
 
 #: app/static/json/backgrounds/jongleur.json:63
 msgid "Read Mind Spellbook"
@@ -4814,6 +4994,7 @@ msgid ""
 "their own."
 msgstr "Sie können die oberflächlichen Gedanken von Lebewesen in der Nähe hören. Langfristige Besessenheit kann dazu führen, dass der Leser die Gedanken anderer 
 für seine eigenen hält."
+für seine eigenen hält."
 
 #: app/static/json/backgrounds/jongleur.json:70
 msgid ""
@@ -4822,6 +5003,9 @@ msgid ""
 "noticed that the notes resembled stellar constellations. Take a Book On "
 "Astronomy and a lot of questions."
 msgstr "Ihre Debütkomposition hat das Publikum in ein stammelndes Durcheinander verwandelt, 
+das Gemurmel von hellen Kreaturen, die vom Nachthimmel herabsteigen. Später haben Sie 
+bemerkt, dass die Noten an Sternkonstellationen erinnerten. Nehmen Sie ein Buch über 
+Astronomie und eine Menge Fragen."
 das Gemurmel von hellen Kreaturen, die vom Nachthimmel herabsteigen. Später haben Sie 
 bemerkt, dass die Noten an Sternkonstellationen erinnerten. Nehmen Sie ein Buch über 
 Astronomie und eine Menge Fragen."
@@ -4866,6 +5050,9 @@ msgstr "Deine respektablen Fähigkeiten als Puppenspieler wurden nur durch deine
 Du warst so gut, dass du als Hexe gebrandmarkt und verbannt wurdest. Nimm 
 eine unheimliche Handpuppe und einen Kaninchenschädel (kleinlich), der vor 
 Zaubersprüchen schützt."
+Du warst so gut, dass du als Hexe gebrandmarkt und verbannt wurdest. Nimm 
+eine unheimliche Handpuppe und einen Kaninchenschädel (kleinlich), der vor 
+Zaubersprüchen schützt."
 
 #: app/static/json/backgrounds/jongleur.json:101
 msgid "Uncanny Hand-Puppet"
@@ -4905,6 +5092,7 @@ msgid ""
 "quick distractions."
 msgstr "Taschentheater: Ein Set mit kleinen Puppen und einer Klappbühne. Gut für
 schnelle Ablenkung."
+schnelle Ablenkung."
 
 #: app/static/json/backgrounds/jongleur.json:130
 msgid "Pocket Theatre"
@@ -4919,6 +5107,7 @@ msgid ""
 "Ghost Violin: A dark-grey violin that plays a haunting tune, mirrored by "
 "an invisible, distant twin."
 msgstr "Geistergeige: Eine dunkelgraue Geige, die eine eindringliche Melodie spielt, gespiegelt von
+einem unsichtbaren, entfernten Zwilling."
 einem unsichtbaren, entfernten Zwilling."
 
 #: app/static/json/backgrounds/jongleur.json:140
@@ -4953,6 +5142,7 @@ msgid ""
 "countenance. Once it comes off, add a Fatigue."
 msgstr "Mythos-Maske: Eine Gipsmaske, die einem das Gesicht eines Monsters
 annimmt. Sobald sie abgenommen wird, fügt man eine Müdigkeit hinzu."
+annimmt. Sobald sie abgenommen wird, fügt man eine Müdigkeit hinzu."
 
 #: app/static/json/backgrounds/jongleur.json:160
 msgid "Mythos Mask"
@@ -4980,12 +5170,14 @@ msgid ""
 " Makes a really loud noise."
 msgstr "Ein Weinglas, das mehrfach zerbrochen werden kann und sich nach 24 Stunden wieder zusammensetzt.
 Macht einen richtig lauten Lärm."
+Macht einen richtig lauten Lärm."
 
 #: app/static/json/backgrounds/kettlewright.json:4
 msgid ""
 "You are known by the smell of molten metal and the jingle of tin. You are"
 " no mere merchant but an artisan of fire and metal."
 msgstr "Man erkennt Sie am Geruch von geschmolzenem Metall und am Klirren von Zinn. Sie sind
+kein einfacher Kaufmann, sondern ein Handwerker aus Feuer und Metall."
 kein einfacher Kaufmann, sondern ein Handwerker aus Feuer und Metall."
 
 #: app/static/json/backgrounds/kettlewright.json:20
@@ -5033,6 +5225,8 @@ msgid ""
 " a smelting hammer (d10, bulky) and a tin helm (+1 Armor). Given time and"
 " adequate materials, you can repair armor."
 msgstr "Sie waren ein militärischer Schmelzer, bevor der Frieden Ihre Lebensgrundlage zerstörte. Nehmen Sie
+einen Schmelzhammer (d10, sperrig) und einen Zinnhelm (+1 Rüstung). Mit der Zeit und
+den entsprechenden Materialien können Sie Rüstungen reparieren."
 einen Schmelzhammer (d10, sperrig) und einen Zinnhelm (+1 Rüstung). Mit der Zeit und
 den entsprechenden Materialien können Sie Rüstungen reparieren."
 
@@ -5084,6 +5278,7 @@ msgid ""
 "bulky) and a Gambeson (+1 Armor)."
 msgstr "Sie bieten Schutz als Dienstleistung an und halten still Ausschau nach Bedrohungen, während Geld den Besitzer wechselt. Sie beginnen mit +d4 HP und tragen ein Langschwert (d10, 
 sperrig) und einen Gambeson (+1 Rüstung)."
+sperrig) und einen Gambeson (+1 Rüstung)."
 
 #: app/static/json/backgrounds/kettlewright.json:86
 #: app/static/json/backgrounds/marchguard.json:34
@@ -5115,6 +5310,7 @@ msgid ""
 "They explode at low heat (d8, blast) but the flames dissipate quickly."
 msgstr "Feuer-Eier: Sechs kleine Pellets aus Meersalz, Holz und Geschirrstaub.
 Sie explodieren bei geringer Hitze (d8, Explosion), aber die Flammen verlöschen schnell."
+Sie explodieren bei geringer Hitze (d8, Explosion), aber die Flammen verlöschen schnell."
 
 #: app/static/json/backgrounds/kettlewright.json:123
 msgid "Fire Eggs"
@@ -5125,6 +5321,7 @@ msgid ""
 "Six small pellets made of sea salt, wood, and crockery-dust. They explode"
 " at low heat but the flames dissipate quickly."
 msgstr "Sechs kleine Pellets aus Meersalz, Holz und Geschirrstaub. Sie explodieren
+bei geringer Hitze, aber die Flammen verlöschen schnell."
 bei geringer Hitze, aber die Flammen verlöschen schnell."
 
 #: app/static/json/backgrounds/kettlewright.json:130
@@ -5145,6 +5342,7 @@ msgid ""
 " is also a bit slower, but easier."
 msgstr "Spikestiefel: Zertrümmert Köpfe (d8) ebenso leicht wie Eis und Schlamm. Reisen
 ist auch etwas langsamer, aber einfacher."
+ist auch etwas langsamer, aber einfacher."
 
 #: app/static/json/backgrounds/kettlewright.json:144
 msgid "Spiked Boots"
@@ -5155,6 +5353,7 @@ msgid ""
 "Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit"
 " slower, but easier."
 msgstr "Zerbricht Köpfe (d8) genauso leicht wie Eis und Schlamm. Das Reisen ist auch etwas
+langsamer, aber einfacher."
 langsamer, aber einfacher."
 
 #: app/static/json/backgrounds/kettlewright.json:151
@@ -5202,6 +5401,8 @@ msgid ""
 "scare off smaller predators. Requires one Ration a day, and it must be "
 "meat."
 msgstr "Ein schlaues Haustier, klein genug, um es in Ihrem Rucksack zu verstecken, aber stark genug, um 
+kleinere Raubtiere zu verscheuchen. Benötigt eine Ration pro Tag und es muss 
+Fleisch sein."
 kleinere Raubtiere zu verscheuchen. Benötigt eine Ration pro Tag und es muss 
 Fleisch sein."
 
@@ -5306,6 +5507,8 @@ msgid ""
 msgstr "Sie befanden sich in einer dunklen Phase und entschieden, dass Ihr Leben eine kleine
 Richtung brauchte. Sie sind sich immer noch nicht sicher, ob es die richtige Entscheidung war. Nehmen Sie einen
 Ölzeugmantel und Kartenpapier mit."
+Richtung brauchte. Sie sind sich immer noch nicht sicher, ob es die richtige Entscheidung war. Nehmen Sie einen
+Ölzeugmantel und Kartenpapier mit."
 
 #: app/static/json/backgrounds/marchguard.json:103
 msgid "Oilskin Coat"
@@ -5334,6 +5537,7 @@ msgid ""
 "A metal badge of honor from the Guard. It can open doors but leaves a "
 "trail."
 msgstr "Ein metallenes Ehrenabzeichen der Garde. Es kann Türen öffnen, hinterlässt aber eine
+Spur."
 Spur."
 
 #: app/static/json/backgrounds/marchguard.json:128
@@ -5385,6 +5589,7 @@ msgid ""
 "(Exchange their lost STR with your own.) Recharge: Wear the ring while in"
 " perfect health. You will lose 1 STR, permanently. Petty."
 msgstr "Schmerzband: Berühre eine verletzte Kreatur, um ihre Wunden auf dich zu übertragen. 
+(Tausche ihre verlorene STR gegen deine eigene aus.) Aufladen: Trage den Ring, während du bei perfekter Gesundheit bist. Du verlierst dauerhaft 1 STR. Kleinlich."
 (Tausche ihre verlorene STR gegen deine eigene aus.) Aufladen: Trage den Ring, während du bei perfekter Gesundheit bist. Du verlierst dauerhaft 1 STR. Kleinlich."
 
 #: app/static/json/backgrounds/marchguard.json:160
@@ -5452,6 +5657,8 @@ msgid ""
 msgstr "Nachdem Sie einen reichen Gönner verführt haben, hat dessen Familie eine Verbrecherbande angeheuert, um Sie zu 
 holen. Sie sind entkommen und müssen sich verstecken. Beginnen Sie mit Beauty Cream, 
 2 Anwendungen. Tragen Sie es auf, um die nächsten 12 Stunden unwiderstehlich schön auszusehen."
+holen. Sie sind entkommen und müssen sich verstecken. Beginnen Sie mit Beauty Cream, 
+2 Anwendungen. Tragen Sie es auf, um die nächsten 12 Stunden unwiderstehlich schön auszusehen."
 
 #: app/static/json/backgrounds/mountebank.json:68
 msgid "Beauty Cream"
@@ -5503,6 +5710,8 @@ msgid ""
 msgstr "Sie wurden von einer Heckenhexe verflucht, weil Sie unschuldige Dorfbewohner zum Narren gehalten haben. 
 Magie wirkt in Ihren Händen unvorhersehbar (WIL-Schutz, um Katastrophe zu vermeiden). Wenn 
 Sie das Ziel von Magie sind, gilt das Gleiche für deren Träger."
+Magie wirkt in Ihren Händen unvorhersehbar (WIL-Schutz, um Katastrophe zu vermeiden). Wenn 
+Sie das Ziel von Magie sind, gilt das Gleiche für deren Träger."
 
 #: app/static/json/backgrounds/mountebank.json:107
 msgid ""
@@ -5543,6 +5752,7 @@ msgid ""
 " access but also alerts your family of your whereabouts."
 msgstr "Als Mitglied des Königshauses haben Sie sich für ein anderes Leben entschieden. Das königliche Wappen gewährt Ihnen
 Zugang, informiert Ihre Familie aber auch über Ihren Aufenthaltsort."
+Zugang, informiert Ihre Familie aber auch über Ihren Aufenthaltsort."
 
 #: app/static/json/backgrounds/mountebank.json:132
 msgid "Miracle Oil: A smelly, slippery concoction. 2 uses."
@@ -5557,6 +5767,7 @@ msgid ""
 "Surgeon's Soap: A lye and ash block that makes skin temporarily "
 "transparent, revealing the anatomy within. 4 uses."
 msgstr "Chirurgenseife: Ein Block aus Lauge und Asche, der die Haut vorübergehend 
+durchsichtig macht und die Anatomie im Inneren sichtbar macht. 4 Anwendungen."
 durchsichtig macht und die Anatomie im Inneren sichtbar macht. 4 Anwendungen."
 
 #: app/static/json/backgrounds/mountebank.json:145
@@ -5622,6 +5833,8 @@ msgid ""
 msgstr "Kein unschuldiges Blut: Unter deiner Aufsicht wird kein unbeteiligter Zuschauer zu Schaden kommen. Nimm einen 
 Steadymade Buckler (+1 Rüstung). Während du diesen Schild hältst, kannst du dich nicht bewegen, 
 solange beide Füße auf festem Boden stehen."
+Steadymade Buckler (+1 Rüstung). Während du diesen Schild hältst, kannst du dich nicht bewegen, 
+solange beide Füße auf festem Boden stehen."
 
 #: app/static/json/backgrounds/outrider.json:54
 msgid "Steadymade Buckler"
@@ -5639,6 +5852,8 @@ msgid ""
 "Take a Wyrmbone Whetstone. Following a half-hour ritual sharpening, "
 "attacks with the weapon are enhanced until STR damage is dealt."
 msgstr "Verehre die Werkzeuge des Todes: Waffen müssen respektiert und gepflegt werden. 
+Nimm einen Wyrmbone-Schleifstein. Nach einem halbstündigen rituellen Schärfen 
+werden Angriffe mit der Waffe verstärkt, bis STR-Schaden verursacht wird."
 Nimm einen Wyrmbone-Schleifstein. Nach einem halbstündigen rituellen Schärfen 
 werden Angriffe mit der Waffe verstärkt, bis STR-Schaden verursacht wird."
 
@@ -5670,6 +5885,7 @@ msgid ""
 "Capture the final breath of a dying warrior."
 msgstr "Sein Schrei verjagt alle, die ihn hören (Rette WIL oder fliehe). Aufladen: 
 Fang den letzten Atemzug eines sterbenden Kriegers ein."
+Fang den letzten Atemzug eines sterbenden Kriegers ein."
 
 #: app/static/json/backgrounds/outrider.json:83
 msgid ""
@@ -5677,6 +5893,8 @@ msgid ""
 " Take an extra 30gp. You always place two gold pieces on the eyelids of a"
 " slain foe. Somehow, you always find the coin."
 msgstr "Verehre die Toten: Der Tod ist eine Reise, die wir alle unternehmen, und sie verdient Respekt.
+Nimm 30 Goldstücke zusätzlich. Du legst immer zwei Goldstücke auf die Augenlider eines
+erschlagenen Feindes. Irgendwie findest du die Münze immer."
 Nimm 30 Goldstücke zusätzlich. Du legst immer zwei Goldstücke auf die Augenlider eines
 erschlagenen Feindes. Irgendwie findest du die Münze immer."
 
@@ -5687,6 +5905,9 @@ msgid ""
 "is marked onto its face, the stick hardens (d8) until it is complete. The"
 " stick will snap in half if the vow is ever broken."
 msgstr "Loyalität zur Arbeit: Ihr Wort ist Ihr Versprechen. Wenn Sie einen Job angenommen haben,
+ziehen Sie ihn bis zum Ende durch. Nehmen Sie einen verwitterten Kerbholzstab. Sobald ein Gelübde
+auf seiner Vorderseite markiert ist, härtet der Stab aus (d8), bis er vollständig ist. Der Stab
+zerbricht in zwei Hälften, wenn das Gelübde jemals gebrochen wird."
 ziehen Sie ihn bis zum Ende durch. Nehmen Sie einen verwitterten Kerbholzstab. Sobald ein Gelübde
 auf seiner Vorderseite markiert ist, härtet der Stab aus (d8), bis er vollständig ist. Der Stab
 zerbricht in zwei Hälften, wenn das Gelübde jemals gebrochen wird."
@@ -5722,6 +5943,7 @@ msgid ""
 "Armor, hooves (d10+d10), +2 slots."
 msgstr "Schweres Schlachtross: Ein für den Krieg gebautes Tier, eine imposante Kreatur. 8 HP, 1
 Panzerung, Hufe (d10+d10), +2 Slots."
+Panzerung, Hufe (d10+d10), +2 Slots."
 
 #: app/static/json/backgrounds/outrider.json:115
 msgid "Heavy Destrier"
@@ -5732,6 +5954,7 @@ msgid ""
 "Blacklegged Dandy: Hardy and adaptable. Tough or Perilous terrain are one"
 " step easier. 6 HP. +4 slots."
 msgstr "Blacklegged Dandy: Robust und anpassungsfähig. Schwieriges oder gefährliches Gelände ist einen
+Schritt einfacher. 6 HP. +4 Slots."
 Schritt einfacher. 6 HP. +4 Slots."
 
 #: app/static/json/backgrounds/outrider.json:124
@@ -5744,6 +5967,7 @@ msgid ""
 "+6 slots (only +2 slots if carrying two people)."
 msgstr "Flusszahn: Beeindruckend stark, kann schwere Lasten tragen. 4 PS. 
 +6 Steckplätze (nur +2 Steckplätze beim Transport von zwei Personen)."
++6 Steckplätze (nur +2 Steckplätze beim Transport von zwei Personen)."
 
 #: app/static/json/backgrounds/outrider.json:133
 msgid "Rivertooth"
@@ -5754,6 +5978,7 @@ msgid ""
 "Piebald Cob: Intelligent, it can understand simple commands, and even has"
 " an instinct for danger. 6 HP. +4 slots."
 msgstr "Piebald Cob: Intelligent, kann einfache Befehle verstehen und hat sogar
+einen Instinkt für Gefahr. 6 HP. +4 Slots."
 einen Instinkt für Gefahr. 6 HP. +4 Slots."
 
 #: app/static/json/backgrounds/outrider.json:142
@@ -5775,6 +6000,7 @@ msgid ""
 "Stray Fogger: Wild but very fast (even in Tough terrain). Rides light. 4 "
 "HP. +2 slots."
 msgstr "Stray Fogger: Wild, aber sehr schnell (selbst in schwierigem Gelände). Fährt leicht. 4 
+HP. +2 Slots."
 HP. +2 Slots."
 
 #: app/static/json/backgrounds/outrider.json:160
@@ -5819,6 +6045,9 @@ msgstr "Ein nachgemachtes Glühwürmchen, das Wasserträger mit seinem leuchtend
 Alchemistisches Glied (d8, beim Tragen unbedeutend), um das abgerissene zu ersetzen, und 
 eine Ölkanne (6 Verwendungen). Das Glied ist immun gegen Hitze und Gift. Muss täglich 
 geölt werden."
+Alchemistisches Glied (d8, beim Tragen unbedeutend), um das abgerissene zu ersetzen, und 
+eine Ölkanne (6 Verwendungen). Das Glied ist immun gegen Hitze und Gift. Muss täglich 
+geölt werden."
 
 #: app/static/json/backgrounds/prowler.json:55
 msgid "Alchemical Limb"
@@ -5836,6 +6065,8 @@ msgid ""
 msgstr "Eine Eisnessel, die Schafe fängt und auslaugt. Sie haben Ihren Auftrag verloren, als
 der Pilz, den Sie eingeführt haben, die Hälfte der Herde getötet hat. Nehmen Sie einen Raureifsamen (1
 Verwendung). Er gefriert jedes Gewässer, egal wie groß es ist. Essen Sie ihn nicht."
+der Pilz, den Sie eingeführt haben, die Hälfte der Herde getötet hat. Nehmen Sie einen Raureifsamen (1
+Verwendung). Er gefriert jedes Gewässer, egal wie groß es ist. Essen Sie ihn nicht."
 
 #: app/static/json/backgrounds/prowler.json:70
 msgid "Rime Seed"
@@ -5851,6 +6082,8 @@ msgid ""
 "its Tooth (petty) on a chain around your neck as a warning to others of "
 "its kind. The tooth hums softly when something is stalking you."
 msgstr "Ein silberner Sumpfkriecher, der jemanden in Ihrer Nähe getötet hat. Sie tragen nun
+seinen Zahn (klein) an einer Kette um den Hals als Warnung für andere seiner
+Art. Der Zahn summt leise, wenn Sie von etwas verfolgt werden."
 seinen Zahn (klein) an einer Kette um den Hals als Warnung für andere seiner
 Art. Der Zahn summt leise, wenn Sie von etwas verfolgt werden."
 
@@ -5893,6 +6126,9 @@ msgstr "Ein hohler Wolf, der Reisende erschreckt hatte. Du hattest Mitleid mit d
 halbverhungerten Geschöpf und pflegtest es wieder gesund. Jetzt ist es dir treu 
 bis in den Tod. Es ist auch ein großartiger Tunnelgräber. 5 HP, 11 STR, 13 DEX, 8 WIL,
 Zähne (d6)."
+halbverhungerten Geschöpf und pflegtest es wieder gesund. Jetzt ist es dir treu 
+bis in den Tod. Es ist auch ein großartiger Tunnelgräber. 5 HP, 11 STR, 13 DEX, 8 WIL,
+Zähne (d6)."
 
 #: app/static/json/backgrounds/prowler.json:106
 msgid ""
@@ -5900,6 +6136,8 @@ msgid ""
 "extracted. You succeeded but left its nest to the wolves. Take a Paring "
 "Knife (d6), an extra 20gp, and a pang of regret."
 msgstr "Ein Azurwaldsänger. Die Gameten bringen einen beträchtlichen Gewinn, wenn sie richtig
+extrahiert werden. Sie haben es geschafft, aber das Nest den Wölfen überlassen. Nehmen Sie ein Schälmesser
+(d6), zusätzliche 20 Goldstücke und einen Anflug von Bedauern."
 extrahiert werden. Sie haben es geschafft, aber das Nest den Wölfen überlassen. Nehmen Sie ein Schälmesser
 (d6), zusätzliche 20 Goldstücke und einen Anflug von Bedauern."
 
@@ -5959,6 +6197,7 @@ msgid ""
 "makeshift traps and structures."
 msgstr "Spitze und Kordel: Zum Durchqueren von schwierigem Gelände oder zum Erstellen
 behelfsmäßiger Fallen und Strukturen."
+behelfsmäßiger Fallen und Strukturen."
 
 #: app/static/json/backgrounds/prowler.json:155
 msgid "Spike and Cord"
@@ -5992,6 +6231,7 @@ msgid ""
 " stone. Expensive (20gp a bottle, 3 uses)."
 msgstr "Härtender Kleber: Macht jedes flache Material (Stoff, Leder, Sand) so hart wie
 Stein. Teuer (20 Goldstück pro Flasche, 3 Anwendungen)."
+Stein. Teuer (20 Goldstück pro Flasche, 3 Anwendungen)."
 
 #: app/static/json/backgrounds/prowler.json:175
 msgid "Hardening Glue"
@@ -6002,6 +6242,8 @@ msgid ""
 "Makes any flat material (cloth, leather, sand) as hard as stone. "
 "Expensive (20gp a bottle)"
 msgstr "Macht jedes flache Material (Stoff, Leder, Sand) so hart wie Stein.
+
+Teuer (20 Goldstücke pro Flasche)"
 
 Teuer (20 Goldstücke pro Flasche)"
 
@@ -6124,6 +6366,7 @@ msgid ""
 "Take a Stone Flute that can calm almost any river."
 msgstr "Lied des Silberstroms. Ein wortloses Schlaflied, das fließendes Wasser nachahmt.
 Nehmen Sie eine Steinflöte, die fast jeden Fluss beruhigen kann."
+Nehmen Sie eine Steinflöte, die fast jeden Fluss beruhigen kann."
 
 #: app/static/json/backgrounds/rill-runner.json:86
 msgid "Stone Flute"
@@ -6139,6 +6382,8 @@ msgid ""
 " with a Feather Quill (1 use, petty). A map drawn with this quill reveals"
 " the most expedient course between any two points."
 msgstr "Die Drossel und die Wiese. Eine stimmungsvolle Geschichte, die im Wechselchor erzählt wird. Beginnen Sie
+mit einer Feder (1 Verwendung, geringfügig). Eine mit dieser Feder gezeichnete Karte zeigt
+den zweckmäßigsten Weg zwischen zwei beliebigen Punkten."
 mit einer Feder (1 Verwendung, geringfügig). Eine mit dieser Feder gezeichnete Karte zeigt
 den zweckmäßigsten Weg zwischen zwei beliebigen Punkten."
 
@@ -6162,6 +6407,7 @@ msgid ""
 "even get tips! Start with an extra 10gp."
 msgstr "Wenn Sie in Tavernen auftreten, erhalten Sie immer Unterkunft und Verpflegung. Manchmal
 bekommen Sie sogar Trinkgeld! Beginnen Sie mit zusätzlichen 10 Goldstücken."
+bekommen Sie sogar Trinkgeld! Beginnen Sie mit zusätzlichen 10 Goldstücken."
 
 #: app/static/json/backgrounds/rill-runner.json:114
 msgid "You are a protector for those afraid to travel alone. Start with a Rapier."
@@ -6179,6 +6425,7 @@ msgid ""
 " contact in any major town."
 msgstr "Sie liefern empfindliche Pakete im ganzen Land aus. Sie haben mindestens einen
 Kontakt in jeder größeren Stadt."
+Kontakt in jeder größeren Stadt."
 
 #: app/static/json/backgrounds/rill-runner.json:132
 msgid ""
@@ -6186,12 +6433,14 @@ msgid ""
 "reaches its destination. For you, passage is always free."
 msgstr "Auch bei rauer See und gefährlichem Wind sorgen Sie dafür, dass ein Schiff 
 sein Ziel erreicht. Für Sie ist die Durchfahrt immer frei."
+sein Ziel erreicht. Für Sie ist die Durchfahrt immer frei."
 
 #: app/static/json/backgrounds/rill-runner.json:136
 msgid ""
 "You shepherd caravans and travelers across water-soaked lands. Start with"
 " a  map (petty) relevant to your next journey."
 msgstr "Sie führen Karawanen und Reisende durch wasserdurchtränkte Länder. Beginnen Sie mit
+einer (kleinen) Karte, die für Ihre nächste Reise relevant ist."
 einer (kleinen) Karte, die für Ihre nächste Reise relevant ist."
 
 #: app/static/json/backgrounds/rill-runner.json:139
@@ -6287,6 +6536,8 @@ msgid ""
 msgstr "Der Sternenwalzer. Eine kometenförmige Spange in einem feinen Ledereinband. 
 Detaillierte astronomische Karten, Himmelsbewegungen und Sternenfeste.
 Wegen seiner Nützlichkeit für Reisende sehr wertvoll (100 Goldstücke)."
+Detaillierte astronomische Karten, Himmelsbewegungen und Sternenfeste.
+Wegen seiner Nützlichkeit für Reisende sehr wertvoll (100 Goldstücke)."
 
 #: app/static/json/backgrounds/scrivener.json:84
 msgid "The Star Waltz"
@@ -6300,6 +6551,8 @@ msgid ""
 msgstr "Ein kometenförmiger Verschluss in einem edlen Ledereinband. Detaillierte astronomische
 Karten, Himmelsbewegungen und Sternenfeste. Sehr wertvoll
 (100 Goldstücke) wegen seiner Nützlichkeit für Reisende."
+Karten, Himmelsbewegungen und Sternenfeste. Sehr wertvoll
+(100 Goldstücke) wegen seiner Nützlichkeit für Reisende."
 
 #: app/static/json/backgrounds/scrivener.json:91
 msgid ""
@@ -6307,6 +6560,8 @@ msgid ""
 " children's storybook, the margins detail information about traveling, "
 "eating, and sleeping in the cloud forests."
 msgstr "Die Kathedrale und das Blätterdach. Großblättriger Einband über Pergament. Nominell ein
+Kindergeschichtenbuch, enthalten die Ränder detaillierte Informationen über Reisen,
+Essen und Schlafen in den Nebelwäldern."
 Kindergeschichtenbuch, enthalten die Ränder detaillierte Informationen über Reisen,
 Essen und Schlafen in den Nebelwäldern."
 
@@ -6357,6 +6612,7 @@ msgid ""
 "Glows when used to write true statements but fades if used to write false"
 " ones."
 msgstr "Leuchtet, wenn es zum Schreiben wahrer Aussagen verwendet wird, verblasst aber, wenn es zum Schreiben falscher
+Aussagen verwendet wird."
 Aussagen verwendet wird."
 
 #: app/static/json/backgrounds/scrivener.json:126
@@ -6418,6 +6674,7 @@ msgid ""
 "Extracts blood from a target without their knowledge. A stolen drop "
 "placed on the eye reveals memories from the past day."
 msgstr "Entnimmt einem Opfer ohne dessen Wissen Blut. Ein gestohlener Tropfen
+auf dem Auge offenbart Erinnerungen an den vergangenen Tag."
 auf dem Auge offenbart Erinnerungen an den vergangenen Tag."
 
 #: app/static/json/backgrounds/scrivener.json:166
@@ -6481,6 +6738,7 @@ msgid ""
 "Charm and Command spellbooks at all times."
 msgstr "Führen Sie Ihre magischen Forschungen in dunklen, mit Spinnweben gefüllten Höhlen durch. Tragen Sie die Zauberbücher 
 Charm und Command immer bei sich."
+Charm und Command immer bei sich."
 
 #: app/static/json/party_events/bestiary.json:26
 msgid "Fire damage against Aranea is enhanced."
@@ -6502,12 +6760,14 @@ msgid ""
 "of four or more are a detachment."
 msgstr "Gesetzlose, die Siedlungen überfallen, Schiffe angreifen oder Reisende überfallen. Gruppen
 von vier oder mehr Personen bilden eine Abteilung."
+von vier oder mehr Personen bilden eine Abteilung."
 
 #: app/static/json/party_events/bestiary.json:39
 msgid ""
 "A detachment always travels with one leader wearing chain mail or similar"
 " (2 Armor) and a long sword (d10) or crossbow (d8)."
 msgstr "Eine Abteilung ist immer mit einem Anführer unterwegs, der ein Kettenhemd oder ähnliches trägt
+(2 Rüstungen) und ein Langschwert (d10) oder eine Armbrust (d8)."
 (2 Rüstungen) und ein Langschwert (d10) oder eine Armbrust (d8)."
 
 #: app/static/json/party_events/bestiary.json:40
@@ -6554,6 +6814,7 @@ msgid ""
 "just underfoot."
 msgstr "Lange, schlangenartige Eidechsen, die tief unter der Erde oder im Brombeergestrüpp
 direkt unter den Füßen nisten."
+direkt unter den Füßen nisten."
 
 #: app/static/json/party_events/bestiary.json:66
 msgid ""
@@ -6567,6 +6828,8 @@ msgid ""
 " and completely frozen after three rounds. An antidote can be brewed from"
 " the Basilisk's gizzards. The creature's reflection is harmless."
 msgstr "Blick: Ein Ziel, das dem Basilisken gegenübersteht, wird langsam von unten her versteinert
+und nach drei Runden vollständig eingefroren. Aus
+dem Magen des Basilisken kann ein Gegenmittel gebraut werden. Das Spiegelbild der Kreatur ist harmlos."
 und nach drei Runden vollständig eingefroren. Aus
 dem Magen des Basilisken kann ein Gegenmittel gebraut werden. Das Spiegelbild der Kreatur ist harmlos."
 
@@ -6610,6 +6873,7 @@ msgid ""
 "Kill their victims for sustenance, but gains no succor. They are always "
 "hungry."
 msgstr "Sie töten ihre Opfer, um sich zu ernähren, doch sie erhalten keine Hilfe. Sie sind immer
+hungrig."
 hungrig."
 
 #: app/static/json/party_events/bestiary.json:92
@@ -6702,6 +6966,7 @@ msgid ""
 "5-6: Arm."
 msgstr "Kritischer Schaden: Ziel verliert ein Körperteil. Würfeln Sie 1W6. 1: Kopf, 2-4: Bein, 
 5-6: Arm."
+5-6: Arm."
 
 #: app/static/json/party_events/bestiary.json:149
 #: app/static/json/party_events/dungeons.json:257
@@ -6750,6 +7015,7 @@ msgid ""
 "Immobile constructs typically used as guardians to great tombs or "
 "artifacts."
 msgstr "Unbewegliche Konstrukte, die typischerweise als Wächter großer Gräber oder 
+Artefakte eingesetzt werden."
 Artefakte eingesetzt werden."
 
 #: app/static/json/party_events/bestiary.json:183
@@ -6829,6 +7095,7 @@ msgid ""
 "away from the host tree. WIL save once per round to break free."
 msgstr "Verwirrt: Das Ziel wird verwirrt und bewegt sich allmählich immer weiter
 vom Wirtsbaum weg. WIL muss einmal pro Runde retten, um sich zu befreien."
+vom Wirtsbaum weg. WIL muss einmal pro Runde retten, um sich zu befreien."
 
 #: app/static/json/party_events/bestiary.json:225
 #: app/static/json/party_events/dungeons.json:252
@@ -6860,6 +7127,7 @@ msgid ""
 " set atop long stalks."
 msgstr "Schwebende Kugeln mit großen Mündern, riesigen Augen und mehreren kleinen Augen
 auf langen Stielen."
+auf langen Stielen."
 
 #: app/static/json/party_events/bestiary.json:242
 msgid "They are highly intelligent, intensely greedy, and completely insane."
@@ -6871,6 +7139,7 @@ msgid ""
 " Shuffle, Vision. Magic used against them requires a WIL save or it "
 "fizzles out."
 msgstr "Kann nach Belieben die folgenden Zauber wirken: Charme, Phobie, Telekinese, Schlaf,
+Schlurf, Vision. Magie, die gegen sie eingesetzt wird, erfordert einen WIL-Save, sonst verpufft sie."
 Schlurf, Vision. Magie, die gegen sie eingesetzt wird, erfordert einen WIL-Save, sonst verpufft sie."
 
 #: app/static/json/party_events/bestiary.json:247
@@ -6937,12 +7206,14 @@ msgid ""
 "dungeons and underground caverns."
 msgstr "Große, formlose Massen aus durchsichtigem Gelee. Gedankenlos auf der Suche nach Nahrung in
 Verliesen und unterirdischen Höhlen."
+Verliesen und unterirdischen Höhlen."
 
 #: app/static/json/party_events/bestiary.json:284
 msgid ""
 "Critical Damage: The target is engulfed, losing d6 STR damage per round "
 "until they are consumed."
 msgstr "Kritischer Schaden: Das Ziel wird verschlungen und verliert d6 STR-Schaden pro Runde,
+bis es verzehrt wird."
 bis es verzehrt wird."
 
 #: app/static/json/party_events/bestiary.json:288
@@ -6963,6 +7234,7 @@ msgid ""
 "Incorporeal spirits of the restless dead, vulnerable only to magic and "
 "specific anointed rites."
 msgstr "Körperlose Geister der ruhelosen Toten, die nur durch Magie und 
+bestimmte gesalbte Riten empfänglich sind."
 bestimmte gesalbte Riten empfänglich sind."
 
 #: app/static/json/party_events/bestiary.json:296
@@ -6994,6 +7266,8 @@ msgid ""
 msgstr "Kritischer Schaden: Das Ziel verliert seine nekrotische Wunde und stirbt in 
 d4 Tagen, sofern es nicht von einem Priester oder einem erfahrenen Heiler behandelt wird. Wenn der Körper nicht 
 verbrannt wird, erhebt er sich später ebenfalls als Ghul."
+d4 Tagen, sofern es nicht von einem Priester oder einem erfahrenen Heiler behandelt wird. Wenn der Körper nicht 
+verbrannt wird, erhebt er sich später ebenfalls als Ghul."
 
 #: app/static/json/party_events/bestiary.json:312
 #: app/static/json/party_events/dungeons.json:257
@@ -7013,6 +7287,7 @@ msgid ""
 "Critical Damage: The stinger's poison liquefies the target's insides for "
 "an additional d8 STR damage. The STR loss is permanent."
 msgstr "Kritischer Schaden: Das Gift des Stachels verflüssigt das Innere des Ziels und verursacht 
+zusätzlichen STR-Schaden von d8. Der STR-Verlust ist permanent."
 zusätzlichen STR-Schaden von d8. Der STR-Verlust ist permanent."
 
 #: app/static/json/party_events/bestiary.json:325
@@ -7082,6 +7357,7 @@ msgid ""
 "lose 1d4 STR and becomes deprived."
 msgstr "Chlorgas: Jeder in der Nähe muss einen DEX-Save durchführen, um seiner Reichweite zu entkommen, oder 
 verliert 1W4 STR und wird beraubt."
+verliert 1W4 STR und wird beraubt."
 
 #: app/static/json/party_events/bestiary.json:365
 #: app/static/json/party_events/dungeons.json:260
@@ -7134,6 +7410,7 @@ msgid ""
 "bleed out very quickly."
 msgstr "Kritischer Schaden: Beißt das Opfer und verursacht zusätzlichen STR-Schaden von d6. Es 
 verblutet sehr schnell."
+verblutet sehr schnell."
 
 #: app/static/json/party_events/bestiary.json:392
 #: app/static/json/party_events/dungeons.json:260
@@ -7154,6 +7431,7 @@ msgid ""
 "Their movements and flight are clumsy due to their disproportionate size."
 " Rely on charmed victims to do anything of note."
 msgstr "Aufgrund ihrer unverhältnismäßigen Größe sind ihre Bewegungen und ihr Flug unbeholfen.
+Sie müssen sich darauf verlassen, dass ihre verzauberten Opfer irgendetwas Bemerkenswertes tun."
 Sie müssen sich darauf verlassen, dass ihre verzauberten Opfer irgendetwas Bemerkenswertes tun."
 
 #: app/static/json/party_events/bestiary.json:401
@@ -7196,6 +7474,7 @@ msgid ""
 "until called for war."
 msgstr "Große und stämmige Verwandte der Kobolde. Wohnen in unterirdischen Festungen,
 bis sie zum Krieg gerufen werden."
+bis sie zum Krieg gerufen werden."
 
 #: app/static/json/party_events/bestiary.json:426
 msgid "Automatically succeed in Morale Saves if a commander is present."
@@ -7231,6 +7510,7 @@ msgid ""
 "Carries two of the following spellbooks: Charm, Hypnotize, Push/Pull, "
 "Shield."
 msgstr "Trägt zwei der folgenden Zauberbücher: Bezaubern, Hypnotisieren, Drücken/Ziehen, 
+Schild."
 Schild."
 
 #: app/static/json/party_events/bestiary.json:444
@@ -7352,6 +7632,8 @@ msgid ""
 msgstr "Kritischer Schaden: Das Ziel erleidet WIL-Schaden von d6, während seine Seele langsam
 ausgelaugt wird. Es wird dann von der Lamia gefesselt und gehorcht in ihrer Gegenwart jedem
 ihrer Befehle."
+ausgelaugt wird. Es wird dann von der Lamia gefesselt und gehorcht in ihrer Gegenwart jedem
+ihrer Befehle."
 
 #: app/static/json/party_events/bestiary.json:507
 #: app/static/json/party_events/dungeons.json:263
@@ -7381,6 +7663,9 @@ msgid ""
 "Identify Owner, Knock, Pacify, Raise Dead, Raise Spirit, Shield, Sleep, "
 "Smoke Form, Telekinesis, Telepathy, Teleport, Vision, Wizard Mark."
 msgstr "Tragen Sie bis zu sechs der folgenden Zauberbücher bei sich: Objekt beleben, Arkanes Auge, 
+Betäuben, Zerlegen, Elementarwand, Raserei, Tor, Schweben, Hass, 
+Besitzer identifizieren, Klopfen, Beruhigen, Tote erwecken, Geist erwecken, Schild, Schlaf, 
+Rauchform, Telekinese, Telepathie, Teleportieren, Sehen, Zaubererzeichen."
 Betäuben, Zerlegen, Elementarwand, Raserei, Tor, Schweben, Hass, 
 Besitzer identifizieren, Klopfen, Beruhigen, Tote erwecken, Geist erwecken, Schild, Schlaf, 
 Rauchform, Telekinese, Telepathie, Teleportieren, Sehen, Zaubererzeichen."
@@ -7415,6 +7700,8 @@ msgid ""
 msgstr "Kritischer Schaden: Das Ziel wird solange ausgebremst, bis es eine Nacht lang gut schläft. 
 Bis dahin verhält es sich flegelhaft, egoistisch und grausam (oder noch grausamer, wenn das 
 bereits in seiner Natur liegt)."
+Bis dahin verhält es sich flegelhaft, egoistisch und grausam (oder noch grausamer, wenn das 
+bereits in seiner Natur liegt)."
 
 #: app/static/json/party_events/bestiary.json:534
 #: app/static/json/party_events/dungeons.json:264
@@ -7427,6 +7714,7 @@ msgid ""
 "commonly found in dungeons."
 msgstr "Bösartige Gestaltwandler, die die Gestalt lebloser Objekte annehmen,
 die man häufig in Verliesen findet."
+die man häufig in Verliesen findet."
 
 #: app/static/json/party_events/bestiary.json:543
 msgid "Remain motionless while in disguise, surprising anyone that comes near."
@@ -7437,6 +7725,7 @@ msgid ""
 "The mimic's saliva is extremely sticky and difficult to remove. "
 "Alchemists will pay up to 150gp for even the smallest vial."
 msgstr "Der Speichel des Mimic ist extrem klebrig und lässt sich nur schwer entfernen. 
+Alchemisten zahlen selbst für die kleinste Phiole bis zu 150 Goldstücke."
 Alchemisten zahlen selbst für die kleinste Phiole bis zu 150 Goldstücke."
 
 #: app/static/json/party_events/bestiary.json:548
@@ -7481,6 +7770,7 @@ msgid ""
 "or dungeons."
 msgstr "Große Humanoide (normalerweise männlich) mit dem Kopf eines Stiers. Lebt in Labyrinthen
 oder Verliesen."
+oder Verliesen."
 
 #: app/static/json/party_events/bestiary.json:570
 msgid ""
@@ -7511,6 +7801,8 @@ msgid ""
 msgstr "Kritischer Schaden: Das Ziel ist mit Mumienfäule infiziert und kann seine Stärke nicht 
 wiedererlangen, bis es von einem spezialisierten Heiler geheilt wird. Das Ziel ist 
 auch beraubt."
+wiedererlangen, bis es von einem spezialisierten Heiler geheilt wird. Das Ziel ist 
+auch beraubt."
 
 #: app/static/json/party_events/bestiary.json:586
 #: app/static/json/party_events/dungeons.json:258
@@ -7527,6 +7819,7 @@ msgid ""
 "Humanoids with the lower body, tail, and neck of snakes. Dwell in hot "
 "jungles and temples lost to time."
 msgstr "Humanoide mit dem Unterkörper, Schwanz und Hals von Schlangen. Lebt in heißen
+Dschungeln und in längst vergessenen Tempeln."
 Dschungeln und in längst vergessenen Tempeln."
 
 #: app/static/json/party_events/bestiary.json:595
@@ -7556,6 +7849,7 @@ msgid ""
 "Critical Damage: The Night Cat begins to eat the target (d4 STR damage) "
 "while they are still alive."
 msgstr "Kritischer Schaden: Die Nachtkatze beginnt, das Ziel zu fressen (d4 STR-Schaden), 
+während es noch lebt."
 während es noch lebt."
 
 #: app/static/json/party_events/bestiary.json:612
@@ -7617,6 +7911,7 @@ msgid ""
 "in their lairs."
 msgstr "Sie lassen sich leicht von glänzenden Materialien beeindrucken und bewahren Säcke voller Gold und Schätze
 in ihren Höhlen auf."
+in ihren Höhlen auf."
 
 #: app/static/json/party_events/bestiary.json:649
 #: app/static/json/party_events/dungeons.json:255
@@ -7633,6 +7928,7 @@ msgid ""
 "Bear-like carnivores with the face of an owl. Found in dense forests. "
 "Rumored spawn of a magical mishap."
 msgstr "Bärenähnliche Fleischfresser mit dem Gesicht einer Eule. In dichten Wäldern zu finden.
+Gerüchteweise das Ergebnis eines magischen Missgeschicks."
 Gerüchteweise das Ergebnis eines magischen Missgeschicks."
 
 #: app/static/json/party_events/bestiary.json:657
@@ -7653,6 +7949,7 @@ msgid ""
 "Intelligent, hawk-like spirits of pure flame, found in isolated deserts "
 "and high mountains."
 msgstr "Intelligente, falkenartige Geister aus reiner Flamme, die man in abgelegenen Wüsten
+und hohen Bergen findet."
 und hohen Bergen findet."
 
 #: app/static/json/party_events/bestiary.json:669
@@ -7742,6 +8039,7 @@ msgid ""
 " anything, including humanoids."
 msgstr "Sie fertigen ihre Rüstungen und Waffen aus den Knochen ihrer Beute. Sie fressen
 alles, auch Humanoide."
+alles, auch Humanoide."
 
 #: app/static/json/party_events/bestiary.json:721
 #: app/static/json/party_events/dungeons.json:253
@@ -7779,6 +8077,7 @@ msgid ""
 "into the air as lures."
 msgstr "Hervorragende Tunnelbauer, die sich unterirdisch in der Nähe von Wasser verstecken. Wackeln Sie mit winzigen Wedeln
 in die Luft, um sie anzulocken."
+in die Luft, um sie anzulocken."
 
 #: app/static/json/party_events/bestiary.json:742
 msgid ""
@@ -7800,6 +8099,7 @@ msgid ""
 "Armadillo-like creatures with club-like tails and long antennae. Feed on "
 "iron and rusted metal."
 msgstr "Gürteltierähnliche Kreaturen mit keulenartigen Schwänzen und langen Fühlern. Ernähren sich von
+Eisen und verrostetem Metall."
 Eisen und verrostetem Metall."
 
 #: app/static/json/party_events/bestiary.json:755
@@ -7837,6 +8137,7 @@ msgid ""
 "each round to break the spell."
 msgstr "Grausamer Blick: Ein Ziel wird von Angst überwältigt (HP sinkt auf 0). WIL rettet
 jede Runde, um den Zauber zu brechen."
+jede Runde, um den Zauber zu brechen."
 
 #: app/static/json/party_events/bestiary.json:773
 #: app/static/json/party_events/dungeons.json:256
@@ -7857,12 +8158,14 @@ msgid ""
 " attacks, sleep or mind control."
 msgstr "Körperlose Monster, die wie belebte Schatten aussehen. Unbeschadet durch alltägliche
 Angriffe, Schlaf oder Gedankenkontrolle."
+Angriffe, Schlaf oder Gedankenkontrolle."
 
 #: app/static/json/party_events/bestiary.json:781
 msgid ""
 "Critical Damage: Target loses d4 STR. If reduced to 0 STR, they become a "
 "shadow as well."
 msgstr "Kritischer Schaden: Das Ziel verliert d4 STR. Wenn STR auf 0 reduziert wird, wird es ebenfalls zu einem
+Schatten."
 Schatten."
 
 #: app/static/json/party_events/bestiary.json:785
@@ -7879,6 +8182,7 @@ msgid ""
 "Tall humanoids made of slimy vegetation. Dwell in dark swamps and damp "
 "undergrounds."
 msgstr "Große Humanoide aus schleimiger Vegetation. Lebt in dunklen Sümpfen und feuchten
+Untergründen."
 Untergründen."
 
 #: app/static/json/party_events/bestiary.json:793
@@ -7948,6 +8252,7 @@ msgid ""
 " met with death. They know almost everything worth knowing."
 msgstr "Stellt jedem, den er trifft, Rätsel. Eine falsche Antwort wird in der Regel
 mit dem Tod bestraft. Sie wissen fast alles, was es zu wissen gilt."
+mit dem Tod bestraft. Sie wissen fast alles, was es zu wissen gilt."
 
 #: app/static/json/party_events/bestiary.json:833
 msgid "Roar: Anyone in earshot must save WIL or flee in fear."
@@ -7967,6 +8272,8 @@ msgid ""
 "Building-sized humanoids with bronze-hued skin and light-colored hair. "
 "Live on the highest mountain peaks and rockiest coastlines."
 msgstr "Humanoide in Gebäudegröße mit bronzefarbener Haut und hellem Haar.
+
+Leben auf den höchsten Berggipfeln und felsigsten Küsten."
 
 Leben auf den höchsten Berggipfeln und felsigsten Küsten."
 
@@ -7997,6 +8304,7 @@ msgid ""
 "feast on human flesh."
 msgstr "Fettleibige Humanoide, die sich in riesige Schweinemonstrositäten verwandeln, um
 Menschenfleisch zu fressen."
+Menschenfleisch zu fressen."
 
 #: app/static/json/party_events/bestiary.json:859
 msgid ""
@@ -8004,12 +8312,15 @@ msgid ""
 " only shapeshift at night."
 msgstr "Jagt bevorzugt in isolierten Siedlungen in der Nähe von Wäldern und Feuchtgebieten. Kann
 nur nachts seine Gestalt verändern."
+nur nachts seine Gestalt verändern."
 
 #: app/static/json/party_events/bestiary.json:860
 msgid ""
 "Charm: Target obeys the swine's every command until it is killed. WIL "
 "save once per round to break free."
 msgstr "Charme: Das Ziel gehorcht jedem Befehl des Schweins, bis es getötet wird. WIL
+
+muss einmal pro Runde gerettet werden, um sich zu befreien."
 
 muss einmal pro Runde gerettet werden, um sich zu befreien."
 
@@ -8027,6 +8338,7 @@ msgid ""
 "Mythical, humanoid giants of radiant beauty and powerfully athletic "
 "bodies. Beneficent of character, but prone to megalomania."
 msgstr "Mythische, menschenähnliche Riesen von strahlender Schönheit und kraftvoll athletischen
+Körpern. Wohlwollend im Charakter, aber anfällig für Größenwahn."
 Körpern. Wohlwollend im Charakter, aber anfällig für Größenwahn."
 
 #: app/static/json/party_events/bestiary.json:873
@@ -8055,12 +8367,14 @@ msgid ""
 "Found in the deepest part of the wood."
 msgstr "Empfindungsfähige, zweibeinige Bäume mit einem vage menschenähnlichen Gesicht auf ihrem Stamm.
 Gefunden im tiefsten Teil des Waldes."
+Gefunden im tiefsten Teil des Waldes."
 
 #: app/static/json/party_events/bestiary.json:887
 msgid ""
 "Speak slowly and ponderously, with a deep voice. Timeless, living for "
 "thousands of years."
 msgstr "Sprich langsam und bedächtig, mit tiefer Stimme. Zeitlos, lebt für
+Tausende von Jahren."
 Tausende von Jahren."
 
 #: app/static/json/party_events/bestiary.json:891
@@ -8077,6 +8391,7 @@ msgid ""
 "Aquatic humanoids with silvery skin, blue-green hair, and scaled legs "
 "ending in fins. Dwell in warmer waters close to land."
 msgstr "Wasserlebende Humanoide mit silbriger Haut, blaugrünem Haar und geschuppten Beinen,
+die in Flossen enden. Lebt in wärmeren Gewässern in Landnähe."
 die in Flossen enden. Lebt in wärmeren Gewässern in Landnähe."
 
 #: app/static/json/party_events/bestiary.json:899
@@ -8153,6 +8468,9 @@ msgstr "Regeneration: Ein verletzter Vampir gewinnt 6 HP zurück, wenn er ein Zi
 Blut hat. Wenn er getötet wird, verwandelt er sich in eine Gaswolke und zieht sich in seinen 
 Sarg zurück, wo er sich bei Einbruch der nächsten Nacht neu formiert. Kann nur getötet werden, wenn er dem
 Sonnenlicht ausgesetzt wird oder wenn der Sarg zerstört wird."
+Blut hat. Wenn er getötet wird, verwandelt er sich in eine Gaswolke und zieht sich in seinen 
+Sarg zurück, wo er sich bei Einbruch der nächsten Nacht neu formiert. Kann nur getötet werden, wenn er dem
+Sonnenlicht ausgesetzt wird oder wenn der Sarg zerstört wird."
 
 #: app/static/json/party_events/bestiary.json:938
 msgid ""
@@ -8200,6 +8518,7 @@ msgid ""
 "Resistant to magical attacks. Caster must make a WIL save for the "
 "intended effect to succeed."
 msgstr "Resistent gegen magische Angriffe. Der Zauberer muss einen WIL-Save durchführen, damit der 
+beabsichtigte Effekt erfolgreich ist."
 beabsichtigte Effekt erfolgreich ist."
 
 #: app/static/json/party_events/bestiary.json:964
@@ -8265,6 +8584,7 @@ msgid ""
 " made of silver are enhanced."
 msgstr "Alltägliche Angriffe sind gegen Werwölfe geschwächt, Angriffe mit Waffen
 aus Silber sind jedoch verstärkt."
+aus Silber sind jedoch verstärkt."
 
 #: app/static/json/party_events/bestiary.json:1003
 msgid ""
@@ -8287,6 +8607,8 @@ msgid ""
 "astride equally nightmarish steeds, leading lesser undead creatures into "
 "battle."
 msgstr "Groteske, gefallene Krieger, die aus bösen Gründen von den Toten auferstanden sind. Oft 
+sitzen sie auf ebenso alptraumhaften Rossen und führen kleinere untote Kreaturen in die 
+Schlacht."
 sitzen sie auf ebenso alptraumhaften Rossen und führen kleinere untote Kreaturen in die 
 Schlacht."
 
@@ -8365,6 +8687,7 @@ msgid ""
 "cliffs."
 msgstr "Große, intelligente Reptilien mit Flügeln. Sie kommen in jedem Terrain vor, bevorzugen jedoch trockene 
 Klippen."
+Klippen."
 
 #: app/static/json/party_events/bestiary.json:1064
 msgid ""
@@ -8372,12 +8695,14 @@ msgid ""
 " from afar."
 msgstr "Scheuen Sie sich vor anderen Kreaturen und verfolgen Sie Ihre Ziele lieber lautlos
 aus der Ferne."
+aus der Ferne."
 
 #: app/static/json/party_events/bestiary.json:1065
 msgid ""
 "Critical Damage: The victim is impaled and held in place. The wyvern then"
 " bites their head off."
 msgstr "Kritischer Schaden: Das Opfer wird aufgespießt und an Ort und Stelle festgehalten. Dann beißt der Wyvern
+ihm den Kopf ab."
 ihm den Kopf ab."
 
 #: app/static/json/party_events/bestiary.json:1069
@@ -9080,6 +9405,7 @@ msgid ""
 "discovered."
 msgstr "Zeichen: Ein Hinweis, eine Spur, eine Fährte, ein verlassenes Versteck, ein Geruch, ein Opfer usw. wurde
 entdeckt."
+entdeckt."
 
 #: app/static/json/party_events/dungeon-events.json:10
 msgid ""
@@ -9093,12 +9419,14 @@ msgid ""
 "must resolve the effect before moving on."
 msgstr "Verlust: Fackeln gehen aus, ein laufender Zauber verpufft usw. Die Gruppe
 muss den Effekt auflösen, bevor sie weitermacht."
+muss den Effekt auflösen, bevor sie weitermacht."
 
 #: app/static/json/party_events/dungeon-events.json:16
 msgid ""
 "Exhaustion: The party must rest (triggering another roll on this table), "
 "add a Fatigue, or consume a ration."
 msgstr "Erschöpfung: Die Gruppe muss sich ausruhen (was einen weiteren Wurf in dieser Tabelle auslöst), 
+eine Erschöpfung hinzufügen oder eine Ration zu sich nehmen."
 eine Erschöpfung hinzufügen oder eine Ration zu sich nehmen."
 
 #: app/static/json/party_events/dungeon-events.json:19
@@ -15964,6 +16292,7 @@ msgid ""
 "No one knows where they come from."
 msgstr "Regelmäßige Regenfälle kleiner Wasserlebewesen (Kaulquappen, Frösche, kleine Fische).
 Niemand weiß, woher sie kommen."
+Niemand weiß, woher sie kommen."
 
 #: app/static/json/party_events/setting.json:688
 msgid ""
@@ -15971,12 +16300,14 @@ msgid ""
 "fall in various colors."
 msgstr "Regenbögen haben kaum Farben und flackern gelegentlich. Regentropfen
 fallen in verschiedenen Farben."
+fallen in verschiedenen Farben."
 
 #: app/static/json/party_events/setting.json:689
 msgid ""
 "Rolling dust clouds that smell of cinnamon. The coughing lasts long after"
 " they've moved on."
 msgstr "Rollende Staubwolken, die nach Zimt riechen. Der Husten hält noch lange an, nachdem
+sie weitergezogen sind."
 sie weitergezogen sind."
 
 #: app/static/json/party_events/setting.json:690
@@ -16000,6 +16331,7 @@ msgid ""
 "The rain glows gently at night. It can be gathered, but the light "
 "eventually fades."
 msgstr "Der Regen leuchtet nachts sanft. Er kann aufgefangen werden, aber das Licht
+verlischt irgendwann."
 verlischt irgendwann."
 
 #: app/static/json/party_events/setting.json:695
@@ -16752,6 +17084,7 @@ msgid ""
 "crossed line."
 msgstr "Kann blockiert sein oder zum Überqueren Spezialwerkzeuge erfordern. Dargestellt durch eine
 durchgestrichene Linie."
+durchgestrichene Linie."
 
 #: app/static/json/party_events/setting.json:941
 msgid "Abandoned Fields"
@@ -17298,6 +17631,7 @@ msgid ""
 "lose consciousness)."
 msgstr "Mit Stacheln versehene Schulterpolster, die jeden vergiften, der sie berührt (STR-Schutz oder 
 Bewusstseinsverlust)."
+Bewusstseinsverlust)."
 
 #: app/static/json/party_events/reliquary.json:25
 msgid "Betterwand"
@@ -17328,6 +17662,11 @@ den aktuellen Standort des verbleibenden Blutes zeigt. Das Bild verschwindet nac
 einigen Minuten. Aufladen: Gießen Sie einen halben Liter Ihrer eigenen Lebensessenz auf die 
 Karte, Blut für Blut. Sie sind entzogen, bis Sie sich ausruhen und eine 
 Ration essen können."
+bevor es zu einer engen Rolle zusammengerollt wird. Rollen Sie es auf, um eine grobe Karte zu sehen, die 
+den aktuellen Standort des verbleibenden Blutes zeigt. Das Bild verschwindet nach
+einigen Minuten. Aufladen: Gießen Sie einen halben Liter Ihrer eigenen Lebensessenz auf die 
+Karte, Blut für Blut. Sie sind entzogen, bis Sie sich ausruhen und eine 
+Ration essen können."
 
 #: app/static/json/party_events/reliquary.json:39
 msgid "Coin of the Father"
@@ -17351,6 +17690,7 @@ msgid ""
 " the goings-on within whatever forest that tree belongs to."
 msgstr "Zerschmettere diesen Kristall, um ihn mit einem Baum zu verschmelzen, den du berühren kannst. Du kannst
 die Vorgänge in dem Wald wahrnehmen, zu dem dieser Baum gehört."
+die Vorgänge in dem Wald wahrnehmen, zu dem dieser Baum gehört."
 
 #: app/static/json/party_events/reliquary.json:52
 msgid "Empathy Rod"
@@ -17363,6 +17703,9 @@ msgid ""
 " Recharge: Give the rod to a former enemy as a gift. This is a one-way "
 "transaction."
 msgstr "Wenn zwei Kreaturen diesen Holzpfahl gleichzeitig berühren, verflechten sich ihre 
+körperlichen und emotionalen Zustände vollständig, bis sie loslassen.
+Aufladen: Geben Sie den Stab einem ehemaligen Feind als Geschenk. Dies ist eine Einweg-
+Transaktion."
 körperlichen und emotionalen Zustände vollständig, bis sie loslassen.
 Aufladen: Geben Sie den Stab einem ehemaligen Feind als Geschenk. Dies ist eine Einweg-
 Transaktion."
@@ -17389,6 +17732,8 @@ msgid ""
 msgstr "Nehmen Sie die Welt durch die Augen und Ohren eines Raubvogels in Ihrer Nähe wahr. 
 Sie spüren, was auch immer er spürt, haben aber keine Kontrolle darüber. Aufladen: Töten
 und essen Sie eine gewöhnliche Beute und braten Sie das Fleisch neben dem Stein."
+Sie spüren, was auch immer er spürt, haben aber keine Kontrolle darüber. Aufladen: Töten
+und essen Sie eine gewöhnliche Beute und braten Sie das Fleisch neben dem Stein."
 
 #: app/static/json/party_events/reliquary.json:73
 msgid "Footpad's Friend"
@@ -17400,6 +17745,8 @@ msgid ""
 "footprints that scatter and turn in a confusing manner, making tracking "
 "nigh-impossible."
 msgstr "Weiche Lederschuhe, die sich an jede Fußgröße anpassen. Hinterlassen 
+Fußabdrücke, die sich auf verwirrende Weise verteilen und drehen, was das Verfolgen 
+nahezu unmöglich macht."
 Fußabdrücke, die sich auf verwirrende Weise verteilen und drehen, was das Verfolgen 
 nahezu unmöglich macht."
 
@@ -17442,6 +17789,7 @@ msgid ""
 "reforge. Each time, roll a d6. On a 1-2, it breaks forever."
 msgstr "Hängen Sie es auf Brusthöhe, um es zu läuten, wenn Gefahr droht. Aufladen: Schmelzen und
 neu schmieden. Würfeln Sie jedes Mal einen W6. Bei 1-2 geht es für immer kaputt."
+neu schmieden. Würfeln Sie jedes Mal einen W6. Bei 1-2 geht es für immer kaputt."
 
 #: app/static/json/party_events/reliquary.json:104
 msgid "Homunculus Nail"
@@ -17453,6 +17801,8 @@ msgid ""
 "form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to "
 "you. If not destroyed, it will outlive you."
 msgstr "Stechen Sie mit der Spitze in einen Finger und hämmern Sie in ein beliebiges kleines Objekt, um 
+einen treuen Diener [3 HP, 4 STR, 13 DEX, 5 WIL] zu formen, der Ihnen 
+ganz ergeben ist. Wenn er nicht zerstört wird, wird er Sie überleben."
 einen treuen Diener [3 HP, 4 STR, 13 DEX, 5 WIL] zu formen, der Ihnen 
 ganz ergeben ist. Wenn er nicht zerstört wird, wird er Sie überleben."
 
@@ -17495,6 +17845,11 @@ mit weltlichen Mitteln undurchdringlich und zerbricht, sobald das Schwert
 wieder angehoben wird. Aufladen: Führe mit dem Schwert einen tödlichen Schlag aus und sauge die Seele des 
 sterbenden Opfers in die Klinge ein. Darin steckt eine listige Intelligenz, 
 die mit dem Träger spricht und immer nach mehr Seelen verlangt, mehr!"
+Kristallkuppel zu bilden, die den Träger umgibt und bewegungsunfähig macht. Die Kuppel ist 
+mit weltlichen Mitteln undurchdringlich und zerbricht, sobald das Schwert 
+wieder angehoben wird. Aufladen: Führe mit dem Schwert einen tödlichen Schlag aus und sauge die Seele des 
+sterbenden Opfers in die Klinge ein. Darin steckt eine listige Intelligenz, 
+die mit dem Träger spricht und immer nach mehr Seelen verlangt, mehr!"
 
 #: app/static/json/party_events/reliquary.json:128
 msgid "Lightsucker Candle"
@@ -17517,6 +17872,7 @@ msgid ""
 "of death."
 msgstr "Eine Flasche mit roter Tinte, auf deren Vorderseite ein gebrochenes Herz prangt. Schreiben Sie
 einen Vertrag beliebiger Länge. Jeder, der unterschreibt, ist bei Todesstrafe zur Einhaltung verpflichtet."
+einen Vertrag beliebiger Länge. Jeder, der unterschreibt, ist bei Todesstrafe zur Einhaltung verpflichtet."
 
 #: app/static/json/party_events/reliquary.json:140
 msgid "Mace of the Kingslayer"
@@ -17528,6 +17884,8 @@ msgid ""
 "WIL save must obey, against their better judgment. Recharge: Deliver a "
 "fatal blow to the leader of a group or faction."
 msgstr "Halten Sie die Waffe hoch und rufen Sie einen Befehl oder eine Erklärung. Jeder, der einen 
+WIL-Save nicht schafft, muss gehorchen, wider besseres Wissen. Aufladen: Versetzen Sie dem Anführer einer Gruppe oder Fraktion einen 
+tödlichen Schlag."
 WIL-Save nicht schafft, muss gehorchen, wider besseres Wissen. Aufladen: Versetzen Sie dem Anführer einer Gruppe oder Fraktion einen 
 tödlichen Schlag."
 
@@ -17566,6 +17924,10 @@ msgid ""
 "good night's sleep and a good meal. The stone will eventually pass "
 "through your system. It isn't fun."
 msgstr "Seltene mondförmige Steine, die aus Unterwasserhöhlen und Dschungeldolinen geborgen wurden.
+
+Schlucken Sie sie im Ganzen, um Müdigkeit und Entbehrungen zu lindern, als hätten Sie eine
+gute Nachtruhe und eine gute Mahlzeit gehabt. Der Stein wird schließlich Ihren 
+Körper passieren. Das ist kein Spaß."
 
 Schlucken Sie sie im Ganzen, um Müdigkeit und Entbehrungen zu lindern, als hätten Sie eine
 gute Nachtruhe und eine gute Mahlzeit gehabt. Der Stein wird schließlich Ihren 
@@ -17637,6 +17999,7 @@ msgid ""
 "blower) to make a WIL save or become temporarily incapacitated. Recharge:"
 " Feed the instrument a clump of human hair pulled from a living skull."
 msgstr "Produziert einen schaurigen Schrei, der jeden, der ihn hört (einschließlich des Bläsers), zwingt, einen WIL-Save durchzuführen oder vorübergehend außer Gefecht zu setzen. Aufladen:
+Füttern Sie das Instrument mit einem Büschel menschlichen Haars, das von einem lebenden Schädel gezogen wurde."
 Füttern Sie das Instrument mit einem Büschel menschlichen Haars, das von einem lebenden Schädel gezogen wurde."
 
 #: app/static/json/party_events/reliquary.json:201
@@ -17726,6 +18089,7 @@ msgid ""
 " off one of the fingers."
 msgstr "Eine Hand, die diesen Handschuh trägt, kann durch feste Objekte hindurchgehen. Aufladen: Schneiden Sie
 einen der Finger ab."
+einen der Finger ab."
 
 #: app/static/json/party_events/reliquary.json:250
 msgid "Voice of the Mountain"
@@ -17785,6 +18149,10 @@ sogar in der Luft. Sobald sie eingefroren ist, kann sie nicht mehr mit Kraft bew
 Schalter gedrückt wird. Aufladen: Halten Sie die Stange eine Stunde lang mit beiden Händen fest, ohne 
 loszulassen (WIL-Save zum Erfolg). Sie können 
 nur einen Versuch pro Tag machen."
+sogar in der Luft. Sobald sie eingefroren ist, kann sie nicht mehr mit Kraft bewegt werden, bis der 
+Schalter gedrückt wird. Aufladen: Halten Sie die Stange eine Stunde lang mit beiden Händen fest, ohne 
+loszulassen (WIL-Save zum Erfolg). Sie können 
+nur einen Versuch pro Tag machen."
 
 #: app/static/json/party_events/reliquary.json:280
 msgid "Wraith Lantern"
@@ -17822,6 +18190,7 @@ msgid ""
 "A strong wire sprouts from your arms, affixing itself to two points "
 "within 50ft on each side."
 msgstr "Aus Ihren Armen entspringt ein starker Draht, der sich an zwei Punkten 
+im Umkreis von 15 Metern auf jeder Seite festsetzt."
 im Umkreis von 15 Metern auf jeder Seite festsetzt."
 
 #: app/static/json/party_events/spellbooks.json:13
@@ -17885,6 +18254,7 @@ msgid ""
 "Two objects are strongly magnetically attracted to each other if they "
 "come within 10 feet."
 msgstr "Zwei Objekte werden stark magnetisch voneinander angezogen, wenn sie sich 
+auf eine Distanz von weniger als 3 Metern nähern."
 auf eine Distanz von weniger als 3 Metern nähern."
 
 #: app/static/json/party_events/spellbooks.json:43
@@ -18109,6 +18479,8 @@ msgid ""
 msgstr "Sie können das Aussehen eines Charakters nach Belieben ändern, solange er 
 humanoid bleibt. Versuche, andere Charaktere zu duplizieren, werden 
 unheimlich erscheinen."
+humanoid bleibt. Versuche, andere Charaktere zu duplizieren, werden 
+unheimlich erscheinen."
 
 #: app/static/json/party_events/spellbooks.json:145
 msgid "The surface makes a perfect mirror."
@@ -18202,6 +18574,7 @@ msgid ""
 "your location to friend or foe."
 msgstr "Ein heller Energieball schießt eine Lichtspur in den Himmel und verrät 
 Ihren Standort Freund oder Feind."
+Ihren Standort Freund oder Feind."
 
 #: app/static/json/party_events/spellbooks.json:187
 msgid "Faintly glows in complete darkness."
@@ -18265,6 +18638,7 @@ msgid ""
 "your choice."
 msgstr "Ein Lebewesen entwickelt den überwältigenden Drang, einen sichtbaren Gegenstand 
 Ihrer Wahl zu besitzen."
+Ihrer Wahl zu besitzen."
 
 #: app/static/json/party_events/spellbooks.json:217
 msgid ""
@@ -18322,6 +18696,7 @@ msgid ""
 "one humanoid."
 msgstr "Ein Objekt schwebt reibungslos 2 Fuß über dem Boden. Es kann bis zu 
 einen Humanoiden tragen."
+einen Humanoiden tragen."
 
 #: app/static/json/party_events/spellbooks.json:241
 msgid "Floats if dropped."
@@ -18362,6 +18737,7 @@ msgid ""
 "Letters appear over the object you touch, spelling out the name of the "
 "object's owners, if there are any."
 msgstr "Über dem Objekt, das Sie berühren, erscheinen Buchstaben, die den Namen des 
+Besitzers des Objekts buchstabieren, sofern es einen gibt."
 Besitzers des Objekts buchstabieren, sofern es einen gibt."
 
 #: app/static/json/party_events/spellbooks.json:259
@@ -18642,6 +19018,7 @@ msgid ""
 " and can only obey simple orders."
 msgstr "Ein Skelett erhebt sich aus dem Boden, um Ihnen zu dienen. Sie sind unglaublich dumm
 und können nur einfache Befehle befolgen."
+und können nur einfache Befehle befolgen."
 
 #: app/static/json/party_events/spellbooks.json:391
 msgid "The owner becomes more and more fascinated with bones after each use."
@@ -18907,6 +19284,7 @@ msgid ""
 "become deprived afterwards)."
 msgstr "Der Besitzer kann das Buch allein durch mentalen Befehl heraufbeschwören (WIL-Schutz oder 
 danach Verlust des Buches)."
+danach Verlust des Buches)."
 
 #: app/static/json/party_events/spellbooks.json:514
 msgid "Telepathy"
@@ -19035,12 +19413,14 @@ msgid ""
 "that cannot cross it."
 msgstr "Auf dem Boden erscheint ein silberner Kreis mit einem Durchmesser von 15 Metern. Wählen Sie eine Art,
 die ihn nicht überqueren kann."
+die ihn nicht überqueren kann."
 
 #: app/static/json/party_events/spellbooks.json:577
 msgid ""
 "The covers are decorated with bizarre, otherworldly creatures with "
 "thousands of eyes."
 msgstr "Die Cover sind mit bizarren, außerweltlichen Kreaturen mit
+Tausenden von Augen verziert."
 Tausenden von Augen verziert."
 
 #: app/static/json/party_events/spellbooks.json:580
@@ -19067,6 +19447,7 @@ msgid ""
 "disappears after a short time."
 msgstr "Eine primitive Version eines gezeichneten Werkzeugs oder Gegenstands erscheint vor Ihnen und
 verschwindet nach kurzer Zeit."
+verschwindet nach kurzer Zeit."
 
 #: app/static/json/party_events/spellbooks.json:589
 msgid ""
@@ -19084,6 +19465,8 @@ msgid ""
 "only visible to you and can be seen at any distance, even through solid "
 "objects."
 msgstr "Ihr Finger kann einen Strahl feuerfarbener Farbe abfeuern. Diese Farbe ist
+nur für Sie sichtbar und kann aus jeder Entfernung gesehen werden, sogar durch feste
+Objekte hindurch."
 nur für Sie sichtbar und kann aus jeder Entfernung gesehen werden, sogar durch feste
 Objekte hindurch."
 
@@ -19192,6 +19575,7 @@ msgid ""
 "Encounter: Roll on an encounter table for that terrain type or location. "
 "Don’t forget to roll for NPC reactions if applicable."
 msgstr "Begegnung: Würfeln Sie auf einer Begegnungstabelle für diesen Geländetyp oder Ort.
+Vergessen Sie nicht, ggf. für NPC-Reaktionen zu würfeln."
 Vergessen Sie nicht, ggf. für NPC-Reaktionen zu würfeln."
 
 #: app/static/json/party_events/wilderness-events.json:7
